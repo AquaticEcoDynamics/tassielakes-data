@@ -1,0 +1,3 @@
+[submodule "aed-marvl"]
+	path = aed-marvl
+	url = https://github.com/AquaticEcoDynamics/aed-marvl
