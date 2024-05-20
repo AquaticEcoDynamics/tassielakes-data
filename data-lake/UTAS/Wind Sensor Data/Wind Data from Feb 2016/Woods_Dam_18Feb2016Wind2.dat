@@ -1,0 +1,5 @@
+"TOA5","Wind","CR200X","No_SN","CR200X.Std.03","Wind Monitoring4.CR2","57348","WindData"
+"TIMESTAMP","RECORD","battVolt","windRun","windSpeed","windSpeed_Min","windSpeed_Max","windSpeed_Avg","windDir_Avg","windDir_stdDev"
+"TS","RN","","","","","","","",""
+"","","Smp","Smp","Smp","Min","Max","WVc","WVc","WVc"
+"2016-02-18 11:50:00",40439,13.65012,7.725133E+007,4.9,3.6,7,5.011334,235.0177,12.5101

@@ -1,0 +1,5 @@
+"TOA5","Wind","CR200X","No_SN","CR200X.Std.03","Wind Monitoring4.CR2","57348","Status"
+"TIMESTAMP","RECORD","OSversion","OSDate","OSSignature","ProgName","ProgSig","CalOffset","PakBusAddress","RfInstalled","RfNetAddr","RfAddress","RfHopSeq","RfPwrMode","Rf_ForceOn","Rf_Protocol","MaxTXPacket","RfSignalLevel","RfRxPakBusCnt","VarOutOfBounds","SkipScan","TrapCode","WatchDogCnt","ResetTables","BattVoltage","SerialNum"
+"TS","RN","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","","","","","","","","","","",""
+"2016-02-18 11:49:36",0,"CR200X.Std.03","131104",39916,"Wind Monitoring4.CR2",57348,3,1,0,0,0,0,"NO_RF",0,1,850,0,0,0,1,0,0,0,13.63668,19915
