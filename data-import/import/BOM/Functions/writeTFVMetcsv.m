@@ -211,15 +211,15 @@ fclose(fid);
 
 filename = [dirname,strcat('tfv_rain_', site, '.csv')];
 
-fid = fopen(filename,'wt');
-fprintf(fid,'ISOTime,Precip \n');
-
-for ii = 1:length(met.Rain_interp)
-    fprintf(fid,'%s,%f \n',...
-        datestr(met.Date_daily(ii),formatout),...
-        met.Rain_interp(ii));
-end
-fclose(fid);
+% fid = fopen(filename,'wt');
+% fprintf(fid,'ISOTime,Precip \n');
+% 
+% for ii = 1:length(met.Rain_interp)
+%     fprintf(fid,'%s,%f \n',...
+%         datestr(met.Date_daily(ii),formatout),...
+%         met.Rain_interp(ii));
+% end
+% fclose(fid);
 
 % Create the summary plots
 
@@ -239,6 +239,6 @@ for i = 0:YEARS-1
         met.Rain_monthly(j) = sum(met.Rain_interp(cc(dd)));
     end
     
-    axes_plot
+    %axes_plot
 end
 

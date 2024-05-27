@@ -103,7 +103,7 @@ borderColor='none';
 onAxes=false;
 iflip=0;
 inorm=0;
-parent=0;
+plotparent=1;
 IncHiLow=1; % include values higher and lower that the limits of Ag.
 
 vin=varargin;
@@ -247,7 +247,7 @@ else
 end
 
 % plot axes, percentage circles and percent. data:
-if parent
+if plotparent
     wrAx=parent;
     set(wrAx,'units','normalized');
 else

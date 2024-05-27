@@ -15,7 +15,7 @@ met.DIRN = (remove_nans(met.WindDir(tt),1));
 
 WD = met.DIRN;
 WS = met.WIND;
- 
+theax
 %wind_rose(WD,WS,'cmap',bone,'ax',[theax x y width]);
 wind_rose(WD,WS,'parent',theax);
 %wind_rose(WD,WS,'cmap',bone,'-parent');

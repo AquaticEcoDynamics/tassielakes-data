@@ -6,10 +6,14 @@ addpath(genpath('Functions'))
 
 datalake = '../../../data-lake/BOM/IDY/';
 
-importBoMmetdata(datalake);
+%importBoMmetdata(datalake);
 
+mkdir('liawenee met output/');
 
-writeTFVMetcsv(datenum(2013,01,01),datenum(2024,05,01),10,'LIAWENEE','LAUNCESTONAIRPORT','Clouds');
+import_write_rainfall('../../../data-lake/BOM/IDC/IDCJAC0009_096033_1800_Data.csv','liawenee met output/tfv_rain_liawenee.csv',datenum(2022,11,01),datenum(2024,05,01));
+writeTFVMetcsv(datenum(2022,11,01),datenum(2024,05,01),10,'LIAWENEE','LAUNCESTONAIRPORT','Clouds');
+
+ tfv_plot_met_infile('liawenee met output\tfv_met_LIAWENEE.csv','liawenee met output\tfv_rain_liawenee.csv','liawenee met output\liawenee.png');
 %writeTFVMetcsv(datenum(2014,01,01),datenum(2017,07,01),10,'LAUNCESTONAIRPORT');
 
 
