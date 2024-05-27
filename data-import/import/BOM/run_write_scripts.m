@@ -4,9 +4,13 @@ addpath(genpath('Functions'))
 % 
 % writeTFVMetcsv(datenum(1990,01,01),datenum(2017,01,01),7.5,'mandurah_combined','airport','Clouds');
 
+datalake = '../../../data-lake/BOM/IDY/';
 
-writeTFVMetcsv(datenum(2014,01,01),datenum(2017,07,01),10,'liawenee','launceston_airport','Clouds');
-writeTFVMetcsv(datenum(2014,01,01),datenum(2017,07,01),10,'launceston_airport');
+importBoMmetdata(datalake);
+
+
+writeTFVMetcsv(datenum(2013,01,01),datenum(2024,05,01),10,'LIAWENEE','LAUNCESTONAIRPORT','Clouds');
+%writeTFVMetcsv(datenum(2014,01,01),datenum(2017,07,01),10,'LAUNCESTONAIRPORT');
 
 
 % close all;
