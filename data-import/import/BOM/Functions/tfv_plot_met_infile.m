@@ -109,7 +109,7 @@ xdata = monthly_date;
 ydata = monthly_rain;
 total_rain = ['Total Rainfall = ',num2str(sum(monthly_rain)),'m'];
 bar(xdata,ydata,0.4);
-ylabel('Rainfall(mm)');
+ylabel('Rainfall(m)');
 xlabel('Date');
 xlim([min(xdata)-5 max(xdata)+5]);
 title(total_rain);
