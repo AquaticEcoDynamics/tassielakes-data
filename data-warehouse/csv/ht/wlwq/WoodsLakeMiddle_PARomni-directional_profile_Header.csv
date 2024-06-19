@@ -8,7 +8,7 @@ Data File Name,462.5_WoodsLakeMiddle_AllData.csv
 Location,data-lake/HT/WaterQuality/
 Station Status,Active
 Lat,-42.080562
-Long,147.004210
+Long,147.00421
 Time Zone,GMT +6
 Vertical Datum,mAHD
 National Station ID,462
@@ -20,7 +20,7 @@ Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
 Variable ID,var00746
-Data Category,Others
+Data Category,Light
 Sampling Rate (min),
 Date,dd-mm-yyyy HH:MM
 Depth,Decimal
