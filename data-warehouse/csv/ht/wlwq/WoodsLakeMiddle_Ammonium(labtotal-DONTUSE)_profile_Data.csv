@@ -1,8 +1,8 @@
 Variable,Date,Depth,Data,QC
-DONT USE Ammonia as NH3 - Lab Total,11/05/2001 12:00,,0.003,29
-DONT USE Ammonia as NH3 - Lab Total,20/03/2001 12:00,,0.002,29
-DONT USE Ammonia as NH3 - Lab Total,22/01/2001 12:00,,0.003,29
-DONT USE Ammonia as NH3 - Lab Total,20/11/2000 12:00,,,140
-DONT USE Ammonia as NH3 - Lab Total,18/09/2000 12:00,,0.003,11
-DONT USE Ammonia as NH3 - Lab Total,24/07/2000 12:00,,0.003,11
-DONT USE Ammonia as NH3 - Lab Total,8/11/1992 12:00,,,140
+DONT USE Ammonia as NH3 - Lab Total,1992-11-08 12:00:00,,,140
+DONT USE Ammonia as NH3 - Lab Total,2000-07-24 12:00:00,,0.003,11
+DONT USE Ammonia as NH3 - Lab Total,2000-09-18 12:00:00,,0.003,11
+DONT USE Ammonia as NH3 - Lab Total,2000-11-20 12:00:00,,,140
+DONT USE Ammonia as NH3 - Lab Total,2001-01-22 12:00:00,,0.003,29
+DONT USE Ammonia as NH3 - Lab Total,2001-03-20 12:00:00,,0.002,29
+DONT USE Ammonia as NH3 - Lab Total,2001-05-11 12:00:00,,0.003,29

@@ -22,7 +22,7 @@ Contact Email,
 Variable ID,var00631
 Data Category,Ecology (Planktonic)
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,Charophyta (Onychonema sp.)
 QC,int

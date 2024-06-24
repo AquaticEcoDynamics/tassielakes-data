@@ -22,7 +22,7 @@ Contact Email,
 Variable ID,var00717
 Data Category,Sediment
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,Dissolved Solids - Total (TDS)
 QC,int

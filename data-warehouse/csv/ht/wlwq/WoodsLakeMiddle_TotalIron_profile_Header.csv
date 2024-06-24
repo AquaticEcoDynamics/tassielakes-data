@@ -22,7 +22,7 @@ Contact Email,
 Variable ID,var00725
 Data Category,Water Quality (Contaminants)
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,Iron - Total/NonFilt as Fe
 QC,int
