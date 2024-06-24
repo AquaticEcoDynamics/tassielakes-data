@@ -22,7 +22,7 @@ Contact Email,
 Variable ID,var00085
 Data Category,Water Quality (PhysChm)
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,DO(%25)
-QC,int
+QC,NaN

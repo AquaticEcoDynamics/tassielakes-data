@@ -22,7 +22,7 @@ Contact Email,
 Variable ID,var00013
 Data Category,Water Quality (Light)
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,Turbidity
 QC,int

@@ -20,9 +20,9 @@ Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
 Variable ID,var00746
-Data Category,Light
+Data Category,Others
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,PAR omni-directional
 QC,int

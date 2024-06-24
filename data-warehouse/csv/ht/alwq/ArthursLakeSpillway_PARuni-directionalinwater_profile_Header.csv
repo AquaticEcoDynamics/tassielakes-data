@@ -19,10 +19,10 @@ Vertical Reference,Water Surface
 Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
-Variable ID,var00766
+Variable ID,var00765
 Data Category,Others
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
 Variable,PAR uni-directional in water
 QC,int

@@ -1,6 +1,6 @@
 Variable,Date,Depth,Data,QC
-Chlorophyll A,16/04/2019 14:04,0.2,0.0014,4
-Chlorophyll A,12/03/2019 16:20,0.2,0.0013,4
-Chlorophyll A,28/11/2018 10:45,0.2,0.5,4
-Chlorophyll A,27/01/2017 15:15,0.2,0.0017,4
-Chlorophyll A,22/02/2017 12:40,0.2,0.0023,4
+Chlorophyll A,2017-01-27 15:15:00,0.2,0.0017,4
+Chlorophyll A,2017-02-22 12:40:00,0.2,0.0023,4
+Chlorophyll A,2018-11-28 10:45:00,0.2,0.5,4
+Chlorophyll A,2019-03-12 16:20:00,0.2,0.0013,4
+Chlorophyll A,2019-04-16 14:04:00,0.2,0.0014,4

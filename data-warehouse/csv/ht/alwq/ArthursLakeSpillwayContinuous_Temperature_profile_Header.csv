@@ -4,8 +4,8 @@ Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
 Tag,HT-ALWQ
-Data File Name,WQSamples.csv
-Location,data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Samples/
+Data File Name,Water%20Temp.csv
+Location,data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/
 Station Status,Active
 Lat,-41.985227
 Long,146.992343
@@ -13,8 +13,8 @@ Time Zone,GMT +6
 Vertical Datum,mAHD
 National Station ID,418
 Site Description,418
-Deployment,Profile
-Deployment Position,m from Surface
+Deployment,Floating
+Deployment Position,0.3m from Surface
 Vertical Reference,Water Surface
 Site Mean Depth,
 Bad or Unavailable Data Value,NaN
@@ -22,7 +22,7 @@ Contact Email,
 Variable ID,var00007
 Data Category,Water Quality (PhysChm)
 Sampling Rate (min),
-Date,dd-mm-yyyy HH:MM
+Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
-Variable,Temperature
-QC,int
+Variable,Water%20Temp
+QC,NaN
