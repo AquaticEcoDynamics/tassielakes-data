@@ -1,0 +1,196 @@
+,Params.Name,Params.Units
+0,(Cylindrospermopsis raciborskii),cells/mL
+1,Air Temperature,Degrees C
+2,Algal Count Reference No,AST Lab Reference
+3,Alkalinity - Total,mg/l
+4,Aluminium - Total/NonFilt as Al,mg/l
+5,Ammonia as N,mg/l
+6,Bacillariophyta (Achnanthes sp.),cells/mL
+7,Bacillariophyta (Asterionella sp.),cells/mL
+8,Bacillariophyta (Aulacoseira sp.),cells/mL
+9,Bacillariophyta (Cyclotella sp.),cells/mL
+10,Bacillariophyta (Cymbella hauckii),cells/mL
+11,Bacillariophyta (Diatoma sp.),cells/mL
+12,Bacillariophyta (Fragilaria sp.),cells/mL
+13,Bacillariophyta (Gomphonema sp.),cells/mL
+14,Bacillariophyta (Navicula sp.),cells/mL
+15,Bacillariophyta (Nitzschia sp.),cells/mL
+16,Bacillariophyta (Synedra sp.),cells/mL
+17,Bacillariophyta (Ulnaria sp.),cells/mL
+18,Bacillariophyta (Urosolenia sp.),cells/mL
+19,Bacillariophyta Unid Diatom-Bacillariale,cells/mL
+20,Bicarbonate Alkalinity as CaCO3,mg/l
+21,Bromide as Br,mg/l
+22,Cadmium - Total/NonFilt as Cd,mg/l
+23,Charophyta (Cosmocladium sp.),cells/mL
+24,Charophyta (Elakatothrix sp.),cells/mL
+25,Charophyta (Euastrum sp.),cells/mL
+26,Charophyta (Eudorina sp.),cells/mL
+27,Charophyta (Mesotaenium sp.),cells/mL
+28,Charophyta (Onychonema sp.),cells/mL
+29,Charophyta (Spondylosium sp.),cells/mL
+30,Charophyta (Teilingia sp.),cells/mL
+31,Charophyta (Zygnema sp.),cells/mL
+32,Chloride as Cl,mg/l
+33,Chlorophyll A,mg per filter
+34,Chlorophyll A (Phaeophytin Corrected),ug/l
+35,Chlorophyll A (or Chlorophyll),ug/L
+36,Chlorophyll B,ug/l
+37,Chlorophyll C,ug/L
+38,Chlorophyta (Ankistrodesmus sp.),cells/mL
+39,Chlorophyta (Ankyra sp.),cells/mL
+40,Chlorophyta (Botryococcus sp.),cells/mL
+41,Chlorophyta (Chlamydomonas sp.),cells/mL
+42,Chlorophyta (Chlorogonium spp.),cells/mL
+43,Chlorophyta (Chodatella sp.),cells/mL
+44,Chlorophyta (Closteriopsis sp.),cells/mL
+45,Chlorophyta (Closterium sp.),cells/mL
+46,Chlorophyta (Coelastrum sp.),cells/mL
+47,Chlorophyta (Comasiella sp.),cells/mL
+48,Chlorophyta (Cosmarium sp.),cells/mL
+49,Chlorophyta (Crucigenia sp.),cells/mL
+50,Chlorophyta (Crucigeniella sp.),cells/mL
+51,Chlorophyta (Desmodesmus sp.),cells/mL
+52,Chlorophyta (Dictyosphaerium sp.),cells/mL
+53,Chlorophyta (Gloeocystis sp.),cells/mL
+54,Chlorophyta (Golenkinia sp.),cells/mL
+55,Chlorophyta (Golenkiniopsis sp.),cells/mL
+56,Chlorophyta (Gonium sp.),cells/mL
+57,Chlorophyta (Kirchneriella sp.),cells/mL
+58,Chlorophyta (Lagerheimia sp.),cells/mL
+59,Chlorophyta (Micractinium sp.),cells/mL
+60,Chlorophyta (Microspora sp.),cells/mL
+61,Chlorophyta (Monoraphidium sp.),cells /ml
+62,Chlorophyta (Mougeotia sp.),cells/mL
+63,Chlorophyta (Nephrocytium sp.),cells/mL
+64,Chlorophyta (Oocystis sp.),cells/mL
+65,Chlorophyta (Pandorina sp.),cells/mL
+66,Chlorophyta (Paulschulzia sp.),cells/mL
+67,Chlorophyta (Pediastrum sp.),cells/mL
+68,Chlorophyta (Planktosphaeria),cells/mL
+69,Chlorophyta (Pyramimonas sp.),cells/mL
+70,Chlorophyta (Quadrigula sp.),Cells/mL
+71,Chlorophyta (Scenedesmus sp.),cells/mL
+72,Chlorophyta (Sphaerellopsis sp.),cells/mL
+73,Chlorophyta (Sphaerocystis sp.),cells/mL
+74,Chlorophyta (Sphaerozosma vertebratum),cells/mL
+75,Chlorophyta (Staurastrum sp.),cells/mL
+76,Chlorophyta (Staurodesmus sp.),cells/mL
+77,Chlorophyta (Tetraedron sp.),cells/mL
+78,Chlorophyta (Ulothrix sp.),cells/mL
+79,Chlorophyta (Volvox sp.),cells/mL
+80,Chromista (Unidentified dinoflagellate),cells/mL
+81,Chromium - Total/NonFilt as Cr,mg/l
+82,Chrysophyta (Dinobryon sp.),cells/mL
+83,Chrysophyta (Globulifera),cells/mL
+84,Chrysophyta (Mallomonas akrokomos),cells/mL
+85,Chrysophyta (Mallomonas sp.),cells/mL
+86,Chrysophyta (Synura sp.),cells/mL
+87,Cloud cover,Okta
+88,Cobalt - Total/NonFilt as Co,ug/l
+89,Cobalt - Total/NonFilt as Co,mg/l
+90,Conductivity @ TRef 25,uS/cm (25 TRef)
+91,Copper - Total/NonFilt as Cu,mg/l
+92,Cryptophyta (Chroomonas sp.),cells/mL
+93,Cryptophyta (Cryptomonas sp.),cells/mL
+94,Cryptophyta (Unidentified Cryptomonad),cells/mL
+95,Cyanobacteria (Anabaena bergii),cells/mL
+96,Cyanobacteria (Anabaena sp.),cells/mL
+97,Cyanobacteria (Anabaenopsis sp.),cells/mL
+98,Cyanobacteria (Anathece sp.),cells/mL
+99,Cyanobacteria (Aphanocapsa sp.),cells/mL
+100,Cyanobacteria (Aphanothece sp. 1),cells/mL
+101,Cyanobacteria (Aphanothece sp.),cells/mL
+102,Cyanobacteria (Borzia sp.),cells/mL
+103,Cyanobacteria (Chroococcus sp.),cells/mL
+104,Cyanobacteria (Cyanodictyon sp.),cells/mL
+105,Cyanobacteria (Dolichospermum sp.),cells/mL
+106,Cyanobacteria (Geitlerinema sp.),cells/mL
+107,Cyanobacteria (Gloeocapsa sp.),cells/mL
+108,Cyanobacteria (Gloeothece sp.),cells/mL
+109,Cyanobacteria (Merismopedia sp.,cells/mL
+110,Cyanobacteria (Microcystis sp.),cells/mL
+111,Cyanobacteria (Myxobaktron sp.),cells/mL
+112,Cyanobacteria (NoID Cyanophyte),cells/mL
+113,Cyanobacteria (Nodularia spumigena),cells/mL
+114,Cyanobacteria (Phormidium sp.),cells/mL
+115,Cyanobacteria (Pseudanabaena sp.),cells/mL
+116,Cyanobacteria (Rhabdoderma sp.),cells/mL
+117,Cyanobacteria (Rhabdogloea sp.),cells/mL
+118,Cyanobacteria (Snowella sp.),cells/mL
+119,Cyanobacteria (Synechococcus sp.),cells/mL
+120,Cyanobacteria (Total Blue Green Algae),cells/mL
+121,DONT USE Ammonia as NH3 - Lab Total,mg/l
+122,DONT USE Nitrate as NO3 - Total,mg/l
+123,DONT USE Nitrite as NO2 - Total,mg/l
+124,DONT USE Nitrogen Persulphate Oxid Total,mg/l
+125,Dinophyta (Gymnodinium sp.),cells/mL
+126,Dinophyta (Peridinium sp.),cells/mL
+127,Dissolved Oxygen (DO %),% Saturation
+128,Dissolved Oxygen (DO mg/l),mg/l
+129,Dissolved Solids - Total (TDS),mg/l
+130,Equipment voltage,Volts
+131,Euglenophyta (Euglena sp.),cells/mL
+132,Euglenophyta (Phacus sp.),cells/mL
+133,Euglenophyta (Trachelomonas sp.),cells/mL
+134,Euglenozoa (Lepocinclis sp.),cells/mL
+135,Fluoride as F,mg/l
+136,Iron  - Dissolved/Filt as Fe,mg/l
+137,Iron - Total/NonFilt as Fe,mg/l
+138,Kjeldahl Nitrogen (TKN) as N - Total,mg/l
+139,Lead - Total/NonFilt as Pb,mg/l
+140,Manganese - Total/NonFilt as Mn,mg/l
+141,Mercury - Total as Hg,mg/l
+142,Microcystin-LR Extracellular,ug/L
+143,Microcystin-LR Intracellular,ug/L
+144,Miozoa (Peridinium willei),cells/mL
+145,Nickel - Total/NonFilt as Ni,mg/l
+146,Nitrate as N,mg/l
+147,Nitrite as N,mg/l
+148,Nitrogen - Total as N,mg/L
+149,Ochrophyta (Apedinella sp.),cells/mL
+150,Ochrophyta (Chrysococcus sp.),cells/mL
+151,Ochrophyta (Chrysosphaerella sp.),cells/mL
+152,Ochrophyta (Epithemia sp.),cells/mL
+153,Ochrophyta (Kephyrion sp.),cells/mL
+154,Ochrophyta (Naegeliella sp.),cells/mL
+155,Ochrophyta (Ochromonas sp.),cells/mL
+156,Ochrophyta (Rhopalodia sp.),cells/mL
+157,Ochrophyta (Spiniferomonas sp.),cells/mL
+158,Ochrophyta (Surirella sp.),cells/mL
+159,Ochrophyta (Uroglena sp.),cells/mL
+160,Organic Carbon Dissolved(DOC) SUPERSEDED,mg/l
+161,Organic Carbon Non-Purgeable (NPOC Dis),mg/l
+162,Organic Carbon Non-Purgeable (NPOC Tot),mg/l
+163,Oxidised Nitrite + Nitrate - Total as N,mg/L
+164,PAR omni-directional,µmol photons/m²/sec
+165,Params.Name,Params.Units
+166,Phaeophytin,ug/l
+167,Phosphorous - Reactive - Filtered,mg/l
+168,Phosphorus - Reactive Total,mg/l
+169,Phosphorus as P - Total,mg/l
+170,Precipitation Type,
+171,Redox US Stnd Oxid,mV
+172,Salinity,Parts per Thousand
+173,Sample - Volume Filtered,Millilitres
+174,Sample bottles,units
+175,Sulphate - Total as SO4,mg/l
+176,Suspended Solids - Total (TSS),mg/l
+177,Transparency - Secchi,Metres
+178,Turbidity,NTU/FNU
+179,Turbidity Filtered,FTU
+180,Unidentified Chrysophyte,cells/mL
+181,Unidentified chlorophyte,cells/mL
+182,Unidentified filamentous cyanobacteria,cells/mL
+183,Unidentified phytoflagellate,cells/mL
+184,Unidentified pico cyanobacteria,cells/mL
+185,Unidentified round green cells,cells/mL
+186,Unidentified uniflagellate,cells/mL
+187,Water Surface Conditions,
+188,Water Temperature,Degrees C
+189,Wave Height,Metres
+190,Wind Direction Estimate,Degrees
+191,Wind Speed,Knots
+192,Wind speed estimate,Beaufort
+193,Zinc - Total/NonFilt as Zn,mg/l
+194,pH field,

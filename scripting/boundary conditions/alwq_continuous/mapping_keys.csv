@@ -1,0 +1,8 @@
+﻿Params.Name,Params.Units in dataset,Conv,Key,Key Value,Notes,Category
+conductivity,uS/cm (25 TRef),1,var00134,Specific Conductivity,,Water Quality (PhysChm)
+DO(%25),% Saturation,1,var00085,O2 Saturation,,Water Quality (PhysChm)
+salinity,Parts per Thousand,1,var00006,Salinity,,Water Quality (PhysChm)
+turbidity,NTU/FNU,1,var00013,Turbidity,,Water Quality (Light)
+Water%20Temp,Degrees C,1,var00007,Temperature,,Water Quality (PhysChm)
+chloro_a,ug/L,1,var00014,Chlorophyll-a,,Water Quality (Nutrient)
+phyco,,1,var00767,Phyco,,Others

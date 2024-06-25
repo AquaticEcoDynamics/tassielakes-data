@@ -1,0 +1,88 @@
+,Params.Name,Params.Units
+0,Air Temperature,Degrees C
+1,Alkalinity - Total,mg/l
+2,Ammonia as N,mg/l
+3,Bacillariophyta (Achnanthes sp.),cells/mL
+4,Bacillariophyta (Amphora sp.),cells/mL
+5,Bacillariophyta (Cyclotella sp.),cells/mL
+6,Bacillariophyta (Cymbella hauckii),cells/mL
+7,Bacillariophyta (Fragilaria sp.),cells/mL
+8,Bacillariophyta (Gomphonema sp.),cells/mL
+9,Bacillariophyta (Navicula sp.),cells/mL
+10,Bacillariophyta (Nitzschia sp.),cells/mL
+11,Bacillariophyta (Tabellaria flocculosa),cells/mL
+12,Bacillariophyta (Urosolenia sp.),cells/mL
+13,Bacillariophyta Unid Diatom-Bacillariale,cells/mL
+14,Charophyta (Elakatothrix sp.),cells/mL
+15,Chlorophyll A,mg per filter
+16,Chlorophyll A (or Chlorophyll),ug/L
+17,Chlorophyta (Botryococcus sp.),cells/mL
+18,Chlorophyta (Chlamydomonas sp.),cells/mL
+19,Chlorophyta (Chlorogonium spp.),cells/mL
+20,Chlorophyta (Cosmarium sp.),cells/mL
+21,Chlorophyta (Crucigenia sp.),cells/mL
+22,Chlorophyta (Desmodesmus sp.),cells/mL
+23,Chlorophyta (Dictyosphaerium sp.),cells/mL
+24,Chlorophyta (Kirchneriella sp.),cells/mL
+25,Chlorophyta (Micractinium sp.),cells/mL
+26,Chlorophyta (Monoraphidium sp.),cells /ml
+27,Chlorophyta (Mougeotia sp.),cells/mL
+28,Chlorophyta (Oocystis sp.),cells/mL
+29,Chlorophyta (Paulschulzia sp.),cells/mL
+30,Chlorophyta (Scenedesmus sp.),cells/mL
+31,Chlorophyta (Sphaerocystis sp.),cells/mL
+32,Chlorophyta (Tetraedron sp.),cells/mL
+33,Chromista (Unidentified dinoflagellate),cells/mL
+34,Chrysophyta (Dinobryon sp.),cells/mL
+35,Chrysophyta (Globulifera),cells/mL
+36,Chrysophyta (Synura sp.),cells/mL
+37,Cloud cover,Okta
+38,Conductivity @ TRef 25,uS/cm (25 TRef)
+39,Cryptophyta (Chroomonas sp.),cells/mL
+40,Cryptophyta (Cryptomonas sp.),cells/mL
+41,Cyanobacteria (Anabaena sp.),cells/mL
+42,Cyanobacteria (Aphanizomenon sp.),cells/mL
+43,Cyanobacteria (Aphanothece sp. 1),cells/mL
+44,Cyanobacteria (Aphanothece sp.),cells/mL
+45,Cyanobacteria (Cyanodictyon sp.),cells/mL
+46,Cyanobacteria (Geitlerinema sp.),cells/mL
+47,Cyanobacteria (Rhabdogloea sp.),cells/mL
+48,Cyanobacteria (Total Blue Green Algae),cells/mL
+49,Dinophyta (Gymnodinium sp.),cells/mL
+50,Dinophyta (Peridinium sp.),cells/mL
+51,Dissolved Oxygen (DO %),% Saturation
+52,Dissolved Oxygen (DO mg/l),mg/l
+53,Equipment voltage,Volts
+54,Euglenophyta (Euglena sp.),cells/mL
+55,Kjeldahl Nitrogen (TKN) as N - Total,mg/l
+56,Nitrate as N,mg/l
+57,Nitrite as N,mg/l
+58,Nitrogen - Total as N,mg/L
+59,Ochrophyta (Chrysosphaerella sp.),cells/mL
+60,Ochrophyta (Kephyrion sp.),cells/mL
+61,Ochrophyta (Ophiocytiaceae sp.),cells/mL
+62,Ochrophyta (Spiniferomonas sp.),cells/mL
+63,Ochrophyta (Uroglena sp.),cells/mL
+64,Oxidised Nitrite + Nitrate - Total as N,mg/L
+65,PAR omni-directional,µmol photons/m²/sec
+66,PAR uni-directional in water,µmol photons/m²/sec
+67,Phosphorous - Reactive - Filtered,mg/l
+68,Phosphorus as P - Total,mg/l
+69,Precipitation Type,
+70,Redox US Stnd Oxid,mV
+71,Sample - Volume Filtered,Millilitres
+72,Sample bottles,units
+73,Suspended Solids - Total (TSS),mg/l
+74,Transparency - Secchi,Metres
+75,Turbidity,NTU/FNU
+76,Turbidity Filtered,FTU
+77,Unidentified Chrysophyte,cells/mL
+78,Unidentified chlorophyte,cells/mL
+79,Unidentified filamentous cyanobacteria,cells/mL
+80,Unidentified pico cyanobacteria,cells/mL
+81,Unidentified uniflagellate,cells/mL
+82,Water Surface Conditions,
+83,Water Temperature,Degrees C
+84,Wind Direction Estimate,Degrees
+85,Wind speed estimate,Beaufort
+86,pH field,

@@ -1,0 +1,3 @@
+Params.Name,Params.Units,Conv,Key,Key Value,Notes,Category
+PAR omni-directional,µmol photons/m²/sec,1,var00746,PAR omni-directional,No mapping key,Light
+Transparency - Secchi,Metres,1,var00140,Secchi Depth,,Light
