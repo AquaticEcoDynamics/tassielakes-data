@@ -1,5 +1,5 @@
-datapath = 'C:\Users\00065525\Github\tassielakes-data/';
-marvldatapath = 'C:\Users\00065525\Github\tassielakes-data/marvl';
+datapath = '../../';
+marvldatapath = '../marvl';
 
 % I have written python code that searches for datapath and takes the first hit,
 % This is do not also grab marvldatapath too

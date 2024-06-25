@@ -18,8 +18,8 @@ textformat = [repmat('%s ',1,x)];
 datacell = textscan(fid,textformat,'Headerlines',1,'Delimiter',',');
 fclose(fid);
 %datacell{2}
-%mDate = datenum(datacell{2},'yyyy-mm-dd HH:MM:SS');
-mDate = datenum(datacell{2},'dd/mm/yyyy HH:MM');
+mDate = datenum(datacell{2},'yyyy-mm-dd HH:MM:SS');
+%mDate = datenum(datacell{2},'dd/mm/yyyy HH:MM');
 %data.Date =  datetime(datacell{1},'InputFormat','yyyy-mm-dd HH:MM:SS');
 %mData = str2double(datacell{4});
 mData = str2double(datacell{4});

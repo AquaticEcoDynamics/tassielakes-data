@@ -81,7 +81,7 @@ for ag = 1:length(unique_agency)
             display(datafile)
             %datafile = regexprep(datafile,' ','');
             tt = import_datafile_raw(datafile);
-            stop
+            
             disp('Finished Import');
             tab = struct2table(tt);
             tab.Date = datetime(tab.Date,'ConvertFrom','datenum');
