@@ -3,7 +3,7 @@ Agency Name,Hydro Tasmania
 Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
-Tag,HT-ALWQ
+Tag,HT-ALWQ-CONT
 Data File Name,Water%20Temp.csv
 Location,data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/
 Station Status,Active
