@@ -19,7 +19,7 @@ Other water qualities (including total suspended solid, ammonium, nitrate, disso
 ### Data Transformation
 Raw data were extracted and linearly interpolated into a 15-minute interval within the timeframe, based on the data availability of flow, temperature, and salinity.
 
-Unavailable outside this time frame for the water qualities were then extrapolated, using the mean of the available data within the time frame.
+Unavailable data outside this time frame for the water qualities were then extrapolated, using the mean of the available data within the time frame.
 
 **Unit conversion for water qualities** (except total suspended solids):
 | Variable | Previous unit | Conversion factor | Current unit |
