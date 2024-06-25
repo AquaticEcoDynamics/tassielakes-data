@@ -45,21 +45,22 @@ Organic carbon is the observed mean of dissolved organic carbon, dissolved organ
 
 ---
 
-### Output File Format ...
+### Output File Format
 | Date  | FLOW | TEMP | SAL | CHLA | SS | NH4 | NO3 | OXY | FRP | ON | OP | OC | ZEROS | ONES |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | dd/mm/yyyy HH:MM:SS | Inflow | Water temperature | Salinity | Chlorophyll-a | Total Suspended Solids | Ammonium | Nitrate | Dissolved Oxygen | Filtered Reactive Phosphorus | Organic nitrogen | Organic phosphorus | Organic carbon | 0s | 1s |
 
 ---
 
-### File Description ...
+### File Description
 | Format  | Name  | Description  |
 | ------------- | ------------- | ------------- |
-| .csv  | Interpolated_454.1_LakeRiverBLWoodsLakeDam_ChannelFlow_Continuous.csv  | Interpolated lake river flow |
-| .csv  | Interpolated_462.1_WoodsLakeAtDam_SpillwayDischarge_Continuous.csv  | Interpolated spillway flow |
-| .csv  | outflow_woods_dam-spillway_19990311-20240416.csv | Interpolated outflow of Woods Lake |
+| .csv  | Interpolated_418.1_ArthursInflow.csv | Interpolated inflow |
+| .csv  | Interpolated_418.1_ArthursSpillway.csv | Interpolated spillway flow |
+| .csv  | inflow_woods_dam_20170908-20240614.csv | Interpolated inflow of Woods Lake |
 | .ipynb  | comparison_plot.ipynb | Python script written in Jupyter notebook for plotting comparison graph|
-| .ipynb  | lakeriver_processing.ipynb | Python script written in Jupyter notebook for processing lake river data|
-| .ipynb  | outflow_processing.ipynb | Python script written in Jupyter notebook for processing Woods lake outflow|
+| .ipynb  | inflow_processing.ipynb | Python script written in Jupyter notebook for processing inflow data|
+| .ipynb  | all_inflow_processing.ipynb | Python script written in Jupyter notebook for processing Woods lake inflow|
 | .ipynb  | spillway_processing.ipynb | Python script written in Jupyter notebook for processing spillway data|
-| .png  | woods_flow_comparison.png | Comparison plot between the flow of lake river and spillway |
+| .png  | flow_comparison.png | Comparison plot between the flow of inflow and spillway |
+| .png  | Woods POC DOC.png | Comparison plot of dissolved organic carbon, dissolved organic carbon non-purgeable, and total organic carbon non-purgeable of Woods Lake |
