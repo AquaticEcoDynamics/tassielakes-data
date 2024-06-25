@@ -19,7 +19,7 @@ Raw data were extracted and linearly interpolated into a 15-minute interval with
 | dd/mm/yyyy HH:MM:SS  | Outflow  |
 
 ### File Description
-| File Format  | File Name  | File Description  |
+| Format  | Name  | Description  |
 | ------------- | ------------- | ------------- |
 | .csv  | Interpolated_454.1_LakeRiverBLWoodsLakeDam_ChannelFlow_Continuous.csv  | Interpolated lake river flow |
 | .csv  | Interpolated_462.1_WoodsLakeAtDam_SpillwayDischarge_Continuous.csv  | Interpolated spillway flow |
