@@ -3,8 +3,8 @@
 ### Data Extraction
 A comparison plot (woods_flow_comparison.png) has been generated from 
 
-data-lake/HT/Hydrology/454.1_LakeRiverBLWoodsLakeDam_ChannelFlow_Continuous.csv; and
-data-lake/HT/Hydrology/462.1_WoodsLakeAtDam_SpillwayDischarge_Continuous.csv
+- data-lake/HT/Hydrology/454.1_LakeRiverBLWoodsLakeDam_ChannelFlow_Continuous.csv; and
+- data-lake/HT/Hydrology/462.1_WoodsLakeAtDam_SpillwayDischarge_Continuous.csv
 
 to compare the data validity of both data files.
 
