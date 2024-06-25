@@ -21,36 +21,34 @@ Raw data were extracted and linearly interpolated into a 15-minute interval with
 
 Unavailable outside this time frame for the water qualities were then extrapolated, using the mean of the available data within the time frame.
 
-The data of organic nitrogen were derived from the difference among total nitrogen, nitrate, and ammonium.
-
-The data of organic phoshorus were derived from the difference between total phosphorus and filtered reactive phosphorus.
-
-Unit conversion for water qualities (except total suspended solids)
-| Variable | Previous unit |  Conversion factor | Current unit |
+**Unit conversion for water qualities** (except total suspended solids):
+| Variable | Previous unit | Conversion factor | Current unit |
 | ------------- | ------------- | ------------- | ------------- |
-| Dissolved oxygen | mg O<sub>2</sub>/L | 1/32 | mmol O2/m3 |
-| Ammonium | mg N/L | 1/32 | mmol N/m3 |
-| Nitrate | mg N/L | 1/32 | mmol N/m3 |
-| Filtered reactive phosphorus | mg P/L | 1/32 | mmol P/m3 |
-| Organic carbon | mg C/L | 1/32 | mmol C/m3 |
-| Organic nitrogen | mg N/L | 1/32 | mmol N/m3 |
-| Organic phosphorus | mg P/L | 1/32 | mmol P/m3 |
-| Chlorophyll-a | mg C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/L | 1/32 | mmol /m3 |
+| Dissolved oxygen | mg O<sub>2</sub>/L | 1/32 | mmol O<sub>2</sub>/m3 |
+| Ammonium | mg N/L | 1/14 | mmol N/m3 |
+| Nitrate | mg N/L | 1/14 | mmol N/m3 |
+| Filtered reactive phosphorus | mg P/L | 1/31 | mmol P/m3 |
+| Organic carbon | mg C/L | 1/12 | mmol C/m3 |
+| Organic nitrogen | mg N/L | 1/14 | mmol N/m3 |
+| Organic phosphorus | mg P/L | 1/31 | mmol P/m3 |
+| Chlorophyll-a | ug C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/L | 1/(1000*893.51) | mmol C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/m3 |
 
-Calculation of on and op...
+**Calculation of organic nitrogen and organic phosphorus:**
 
----
+Organic nitrogen = Total nitrogen - Nitrate - Ammonium
 
-### Assumptions
+Organic phosphorus = Total phosphorus - Filtered reactive phosphorus
 
-organic carbon ...
+**Assumptions:**
+
+Organic carbon is the observed mean of dissolved organic carbon, dissolved organic carbon non-purgeable, and total organic carbon non-purgeable of Woods Lake (refer to Woods POC DOC.png).
 
 ---
 
 ### Output File Format ...
-| Date  | Data |
-| ------------- | ------------- |
-| dd/mm/yyyy HH:MM:SS  | Outflow  |
+| Date  | FLOW | TEMP | SAL | CHLA | SS | NH4 | NO3 | OXY | FRP | ON | OP | OC | ZEROS | ONES |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| dd/mm/yyyy HH:MM:SS | Inflow | Water temperature | Salinity | Chlorophyll-a | Total Suspended Solids | Ammonium | Nitrate | Dissolved Oxygen | Filtered Reactive Phosphorus | Organic nitrogen | Organic phosphorus | Organic carbon | 0s | 1s |
 
 ---
 
