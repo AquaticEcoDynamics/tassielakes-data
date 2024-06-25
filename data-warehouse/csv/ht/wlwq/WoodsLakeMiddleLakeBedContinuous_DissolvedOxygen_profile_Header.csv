@@ -3,7 +3,7 @@ Agency Name,Hydro Tasmania
 Agency Code,HT
 Program,Woods Lake WQ
 Project,WLWQ
-Tag,HT-WLWQ
+Tag,HT-WLWQ-CONT
 Data File Name,462.15_WoodsLakeMiddleLakeBed_DO(mgperl)_Continuous.csv
 Location,data-lake/HT/WaterQuality/
 Station Status,Active
