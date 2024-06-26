@@ -110,3 +110,4 @@ Organic carbon is the observed mean of dissolved organic carbon, dissolved organ
 | Variables | Source |
 | ------------- | ------------- |
 | Samples | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/Inflow.csv* |
+| Samples | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/SpillwayDischarge.csv* |
