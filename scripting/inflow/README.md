@@ -64,3 +64,49 @@ Organic carbon is the observed mean of dissolved organic carbon, dissolved organ
 | .ipynb  | spillway_processing.ipynb | Python script written in Jupyter notebook for processing spillway data|
 | .png  | flow_comparison.png | Comparison plot between the flow of inflow and spillway |
 | .png  | Woods POC DOC.png | Comparison plot of dissolved organic carbon, dissolved organic carbon non-purgeable, and total organic carbon non-purgeable of Woods Lake |
+
+---
+
+## Processed data and header files
+### Output File Format
+**Data file:**
+| Variable  | Date | Depth | Data | QC |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| variable name | yyyy-mm-dd HH:MM:SS | lake depth | variable value | quality control |
+
+**Header file:**
+| Header | Value |
+| ------------- | ------------- |
+| Agency Name | Hydro Tasmania |
+| Agency Code | HT |
+| Program | Arthurs Lake WQ |
+| Project | ALWQ |
+| Tag | HT-ALWQ |
+| Data File Name | Raw data source file (.csv) |
+| Location | Raw data source location (file path) |
+| Station Status | Active |
+| Lat | Latitude (dam/middle of the lake) |
+| Long | Longitude (dam/middle of the lake) |
+| Time Zone | GMT +6 |
+| Vertical Datum | mAHD |
+| National Station ID | 418 |
+| Site Description | 418 |
+| Deployment | profile |
+| Deployment position | m from surface |
+| Vertial Reference | Water Surface |
+| Site Mean Depth | - |
+| Bad or Unavailable Data Value | NaN |
+| Contact Email | - |
+| Variable ID | standardised mapping key |
+| Data Category | standardised mapping variable category |
+| Sampling Rate (min) | - |
+| Date | yyyy-mm-dd HH:MM:SS |
+| Depth | decimal |
+| Variable | variable name in raw data |
+| QC | int |
+
+### Data Sources
+**Arthurs Lake (data-warehouse/csv/ht/alwq) from:**
+| Variables | Source |
+| ------------- | ------------- |
+| Samples | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/Inflow.csv* |
