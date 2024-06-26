@@ -46,7 +46,7 @@ Raw data were extracted and linearly interpolated into a 15-minute interval with
 | Agency Code | HT |
 | Program | Woods Lake WQ |
 | Project | WLWQ |
-| Tag | HT-WLWQ |
+| Tag | HT-WLWQ-CONT |
 | Data File Name | Raw data source file (.csv) |
 | Location | Raw data source location (file path) |
 | Station Status | Active |
@@ -56,7 +56,7 @@ Raw data were extracted and linearly interpolated into a 15-minute interval with
 | Vertical Datum | mAHD |
 | National Station ID | 462 |
 | Site Description | 462 |
-| Deployment | profile |
+| Deployment | floating |
 | Deployment position | m from surface |
 | Vertial Reference | Water Surface |
 | Site Mean Depth | - |
@@ -74,4 +74,5 @@ Raw data were extracted and linearly interpolated into a 15-minute interval with
 **Arthurs Lake (data-warehouse/csv/ht/alwq) from:**
 | Variables | Source |
 | ------------- | ------------- |
-| Samples | *data-lake/HT/Hydrology/454.1_LakeRiverBLWoodsLakeDam_ChannelFlow_Continuous.csv* |
+| Continuous | *data-lake/HT/Hydrology/454.1_LakeRiverBLWoodsLakeDam_ChannelFlow_Continuous.csv* |
+| Continuous | *data-lake/HT/Hydrology/462.1_WoodsLakeAtDam_SpillwayDischarge_Continuous.csv* |
