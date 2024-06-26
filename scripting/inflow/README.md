@@ -67,7 +67,7 @@ Organic carbon is the observed mean of dissolved organic carbon, dissolved organ
 
 ---
 
-## Processed data and header files
+## Process data and header files
 ### Output File Format
 **Data file:**
 | Variable  | Date | Depth | Data | QC |
