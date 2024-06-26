@@ -33,6 +33,9 @@ Raw data were extracted and linearly interpolated into a 15-minute interval with
 ---
 
 ## Process data and header files
+**Assumptions:**
+The unit of discharge is assumed to be m<sup>3</sup>/s, not mentioned in raw datasets.
+
 ### Output File Format
 **Data file:**
 | Variable  | Date | Depth | Data | QC |
