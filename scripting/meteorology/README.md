@@ -11,7 +11,7 @@
 | ------------- | ------------- |
 | Agency Name | Hydro Tasmania |
 | Agency Code | HT |
-| Program | Woods Lake |
+| Program | Woods Lake / BOM |
 | Project | MET |
 | Tag | HT-MET |
 | Data File Name | Raw data source file (.csv) |
@@ -42,3 +42,12 @@
 | Variables | Source |
 | ------------- | ------------- |
 | Samples | *data-lake/HT/Meteorology/Rainfall Woods Lake At Dam.csv* |
+
+**BOM (data-warehouse/csv/ht/met) from:**
+| Variables | Source |
+| ------------- | ------------- |
+| Samples | *data-lake/BOM/HT/Hourly aggregate/AirTemp.csv* |
+| Samples | *data-lake/BOM/HT/Hourly aggregate/Humidity.csv* |
+| Samples | *data-lake/BOM/HT/Hourly aggregate/Rainfall.csv* |
+| Samples | *data-lake/BOM/HT/Hourly aggregate/WD.csv* |
+| Samples | *data-lake/BOM/HT/Hourly aggregate/WS.csv* |

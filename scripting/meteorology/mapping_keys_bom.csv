@@ -1,2 +1,6 @@
 ﻿Params.Name,Params.Units in dataset,Conv,Key,Key Value,Notes,Category
 AirTemp,C,1,var00153,Air Temperature,,Meteorology
+Humidity,%,1,var00156,Relative Humidity,,Meteorology
+Rainfall,mm,0.001,var00152,Precipitation,,Meteorology
+WD,deg,1,var00129,Wind Direction,,Meteorology
+WS,km/h,0.28,var00130,Wind Speed,,Meteorology
