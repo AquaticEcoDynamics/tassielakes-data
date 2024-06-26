@@ -13,7 +13,7 @@
 | Agency Code | HT |
 | Program | Arthurs/Woods Lake WQ |
 | Project | ALWQ/WLWQ |
-| Tag | HT-ALWQ/HT-WLWQ/HT-ALWQ-CONT/HT-WLWQ-CONT |
+| Tag | HT-ALWQ/HT-WLWQ-CONT |
 | Data File Name | Raw data source file (.csv) |
 | Location | Raw data source location (file path) |
 | Station Status | Active |
@@ -41,18 +41,9 @@
 **Woods Lake (data-warehouse/csv/ht/wlwq) from:**
 | Variables | Source |
 | ------------- | ------------- |
-| Samples | *data-lake/HT/WaterQuality/462.5_WoodsLakeMiddle_AllData.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_Conductivity_Continuous.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_DO%25_Continuous.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_DO(mgperl)_Continuous.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_pH_Continuous.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_Salinity_Continuous.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_Turbidity_Continuous.csv* |
-| Continuous | *data-lake/HT/WaterQuality/462.15_WoodsLakeMiddleLakeBed_WaterTemp_Continuous.csv* |
-| Light profile | *data-lake/HT/WaterQuality/462_WoodsLake_LightProfile.csv* |
+| Continuous | *data-lake/HT/WaterLevel/462.1_WoodsLakeAtDam_WaterLevel_Continuous.csv* |
 
 **Arthurs Lake (data-warehouse/csv/ht/alwq) from:**
 | Variables | Source |
 | ------------- | ------------- |
 | Samples | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WaterLevel.csv* |
-| Continuous | ** |
