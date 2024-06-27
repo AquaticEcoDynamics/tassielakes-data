@@ -8,6 +8,8 @@ A comparison plot (flow_comparison.png) has been generated from
 
 to compare the data validity of both data files.
 
+![comparison plot](flow_comparison.png)
+
 Thus, the Inflow was used as the flow rate for the output file (inflow_woods_dam_20170908-20240514.csv).
 
 Temperature, salinity, and chlorophyll-a data were extracted from continuous data (data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/).
