@@ -8,6 +8,8 @@ A comparison plot (woods_flow_comparison.png) has been generated from
 
 to compare the data validity of both data files.
 
+![comparison plot](woods_flow_comparison.png)
+
 Thus, the Lake River Channel Flow was used as the flow rate for the output file (outflow_woods_dam-spillway_19990311-20240416.csv).
 
 ### Data Transformation

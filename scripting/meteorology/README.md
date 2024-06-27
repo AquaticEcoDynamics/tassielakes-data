@@ -35,7 +35,7 @@
 | Date | yyyy-mm-dd HH:MM:SS |
 | Depth | decimal |
 | Variable | variable name in raw data |
-| QC | int |
+| QC | int / Y/N |
 
 ### Data Sources
 **Woods Lake (data-warehouse/csv/ht/met) from:**
