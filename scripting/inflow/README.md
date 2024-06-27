@@ -45,6 +45,8 @@ Organic phosphorus = Total phosphorus - Filtered reactive phosphorus
 
 Organic carbon is the observed mean of dissolved organic carbon, dissolved organic carbon non-purgeable, and total organic carbon non-purgeable of Woods Lake (refer to Woods POC DOC.png).
 
+![comparison plot](Woods POC DOC.png)
+
 ---
 
 ### Output File Format
