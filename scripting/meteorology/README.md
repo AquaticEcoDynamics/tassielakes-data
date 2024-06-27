@@ -17,12 +17,12 @@
 | Data File Name | Raw data source file (.csv) |
 | Location | Raw data source location (file path) |
 | Station Status | Active |
-| Lat | Latitude (dam/middle of the lake) |
-| Long | Longitude (dam/middle of the lake) |
+| Lat | Latitude (dam/middle of the lake / BOM Station ID) |
+| Long | Longitude (dam/middle of the lake / BOM Station ID) |
 | Time Zone | GMT +6 |
 | Vertical Datum | mAHD |
-| National Station ID | 462 |
-| Site Description | 462 |
+| National Station ID | 462 / 96033 |
+| Site Description | 462 / 96033 |
 | Deployment | profile |
 | Deployment position | m from surface |
 | Vertial Reference | Water Surface |
@@ -51,3 +51,4 @@
 | Samples | *data-lake/BOM/HT/Hourly aggregate/Rainfall.csv* |
 | Samples | *data-lake/BOM/HT/Hourly aggregate/WD.csv* |
 | Samples | *data-lake/BOM/HT/Hourly aggregate/WS.csv* |
+| Samples | *data-lake/BOM/IDC/IDCJAC0009_096033_1800_Data.csv* |
