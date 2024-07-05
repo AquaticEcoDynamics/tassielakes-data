@@ -133,7 +133,7 @@ timeseries.end_plot_ID = 23;
 
 timeseries.plotvalidation = 1; % Add field data to figure (true or false)
 timeseries.validation_raw = 1; % 1: raw data; 0: daily-average
-timeseries.plotmodel = 1;
+timeseries.plotmodel = 0;
 
 timeseries.plotdepth = {'surface','bottom'};  %  {'surface','bottom'} Cell-array with either one
 timeseries.depthTHRESH = -3;  %  {'surface','bottom'} Cell-array with either one
