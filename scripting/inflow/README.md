@@ -118,3 +118,13 @@ The unit of discharge is assumed to be m<sup>3</sup>/s, not mentioned in raw dat
 | ------------- | ------------- |
 | Samples | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/Inflow.csv* |
 | Samples | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/SpillwayDischarge.csv* |
+| Continuous | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/Water Temp.csv* |
+| Continuous | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/salinity.csv* |
+| Continuous | *data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/chloro_a.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_TotalSuspendedSolids_profile_Data.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_Ammonium_profile_Data.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_Nitrate_profile_Data.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_DissolvedOxygen_profile_Data.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_FilteredReactivePhosphorus_profile_Data.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_TotalNitrogen_profile_Data.csv* |
+| Samples | *data-warehouse/csv/ht/alwq/ArthursLakeSpillway_TotalPhosphorus_profile_Data.csv* |
