@@ -191,7 +191,7 @@ timeseries.ncfile(2).col_pal_color_bot  =[[254,232,200]./255;[252,141,89]./255];
 
 
 % plotting configuration
-timeseries.datearray = datenum(2015:01:2024,01,1);
+timeseries.datearray = datenum(2015:01:2024,07,1);
 timeseries.dateformat = 'dd/mmm/yy';
 
 %timeseries.dimc = [0.9 0.9 0.9]; % dimmest (lightest) color
