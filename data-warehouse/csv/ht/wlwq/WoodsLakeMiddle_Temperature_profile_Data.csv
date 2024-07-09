@@ -1,24 +1,4 @@
 Variable,Date,Depth,Data,QC
-Water Temperature,1991-01-22 12:00:00,,,140
-Water Temperature,1992-07-07 12:00:00,,,140
-Water Temperature,1994-02-23 12:00:00,,,140
-Water Temperature,1996-08-08 12:00:00,,,140
-Water Temperature,1996-09-06 12:00:00,,,140
-Water Temperature,1996-10-01 12:00:00,,,140
-Water Temperature,1996-11-05 12:00:00,,,140
-Water Temperature,1996-12-02 12:00:00,,,140
-Water Temperature,1997-01-07 12:00:00,,,140
-Water Temperature,1997-02-03 12:00:00,,,140
-Water Temperature,1997-03-24 12:00:00,,,140
-Water Temperature,1997-05-05 12:00:00,,,140
-Water Temperature,1997-06-17 12:00:00,,,140
-Water Temperature,1997-07-22 12:00:00,,,140
-Water Temperature,1997-08-20 12:00:00,,,140
-Water Temperature,1997-10-20 12:00:00,,,140
-Water Temperature,1997-12-08 12:00:00,,,140
-Water Temperature,1998-02-16 12:00:00,,,140
-Water Temperature,1998-04-21 12:00:00,,,140
-Water Temperature,1998-06-15 12:00:00,,,140
 Water Temperature,1998-09-15 11:34:00,0.1,8.41,11
 Water Temperature,1998-09-15 11:34:00,3.4,8.39,11
 Water Temperature,1998-09-15 11:34:00,1.7,8.41,11

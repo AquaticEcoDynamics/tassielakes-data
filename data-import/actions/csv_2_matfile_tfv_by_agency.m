@@ -179,7 +179,11 @@ for ag = 1:length(unique_agency)
                 csiem.(sitecode).(tfv_name).(headerfield{k}) = header.(headerfield{k});
             end
 
-
+            % Missing depth hack
+            sss = find(isnan(csiem.(sitecode).(tfv_name).Depth) & ~isnan(csiem.(sitecode).(tfv_name).Data));
+            if ~isempty(sss)
+                csiem.(sitecode).(tfv_name).Depth(sss) = 0;
+            end
 
             csiem.(sitecode).(tfv_name).X = header.Lon;
             csiem.(sitecode).(tfv_name).Y = header.Lat;

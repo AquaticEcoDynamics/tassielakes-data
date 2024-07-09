@@ -149,7 +149,7 @@ timeseries.alph = 0.5;
 
 timeseries.isFieldRange = 0;
 timeseries.fieldprctile = [10 90];
-timeseries.isHTML = 1;
+timeseries.isHTML = 0;
 
 timeseries.polygon_file = '../gis/woods_marvl_zones_v1.shp';
 timeseries.plotAllsites = 1;

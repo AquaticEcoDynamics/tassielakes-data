@@ -65,36 +65,36 @@ end
 save varkey.mat varkey -mat;
 
 
-agency.theme5 = import_agency_conv('THEME5');
-agency.theme2light = import_agency_conv('THEME2LIGHT');
+% agency.theme5 = import_agency_conv('THEME5');
+% agency.theme2light = import_agency_conv('THEME2LIGHT');
+% 
+% agency.theme5met = import_agency_conv('THEME5MET');
+% agency.theme3ctd = import_agency_conv('THEME3CTD');
+% 
+% agency.dot = import_agency_conv('DOT');
+% agency.bom = import_agency_conv('BOM');
+% agency.dwer = import_agency_conv('DWER');
+% agency.dwermooring = import_agency_conv('DWERMOORING');
+% agency.mafrl = import_agency_conv('MAFRL');
+% agency.imosbgc = import_agency_conv('IMOSBGC');
+% agency.imossrs = import_agency_conv('IMOSSRS');
+% 
+% agency.imosprofile = import_agency_conv('IMOSPROFILE');
+% agency.fpamqmp = import_agency_conv('FPA-MQMP');
+% 
+% agency.theme3sedpsd = import_agency_conv('WWMSP3SEDPSD');
+% agency.theme3sgrest = import_agency_conv('WWMSP3SGREST');
+% 
+% agency.theme5waves = import_agency_conv('WWMSP5Waves');
+% agency.bmtswan = import_agency_conv('BMT-SWAN');
+% agency.wwmsp1wrf = import_agency_conv('WWMSP1.1-WRF');
+% agency.bombarraftv = import_agency_conv('BOM-BARRA');
+% agency.WCWA = import_agency_conv('WCWA');
+% agency.UKMO = import_agency_conv('UKMO');
+% agency.WWMSP31SedimentDeposition = import_agency_conv('WWMSP3.1-Sediment-Deposition')
 
-agency.theme5met = import_agency_conv('THEME5MET');
-agency.theme3ctd = import_agency_conv('THEME3CTD');
 
-agency.dot = import_agency_conv('DOT');
-agency.bom = import_agency_conv('BOM');
-agency.dwer = import_agency_conv('DWER');
-agency.dwermooring = import_agency_conv('DWERMOORING');
-agency.mafrl = import_agency_conv('MAFRL');
-agency.imosbgc = import_agency_conv('IMOSBGC');
-agency.imossrs = import_agency_conv('IMOSSRS');
-
-agency.imosprofile = import_agency_conv('IMOSPROFILE');
-agency.fpamqmp = import_agency_conv('FPA-MQMP');
-
-agency.theme3sedpsd = import_agency_conv('WWMSP3SEDPSD');
-agency.theme3sgrest = import_agency_conv('WWMSP3SGREST');
-
-agency.theme5waves = import_agency_conv('WWMSP5Waves');
-agency.bmtswan = import_agency_conv('BMT-SWAN');
-agency.wwmsp1wrf = import_agency_conv('WWMSP1.1-WRF');
-agency.bombarraftv = import_agency_conv('BOM-BARRA');
-agency.WCWA = import_agency_conv('WCWA');
-agency.UKMO = import_agency_conv('UKMO');
-agency.WWMSP31SedimentDeposition = import_agency_conv('WWMSP3.1-Sediment-Deposition')
-
-
-save agency.mat agency -mat;
+% save agency.mat agency -mat;
 
 
 
