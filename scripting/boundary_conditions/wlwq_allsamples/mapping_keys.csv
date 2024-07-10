@@ -18,7 +18,7 @@ pH field,,1,var00137,pH,,Water Quality (PhysChm)
 Alkalinity - Total,mg/l,1,var00139,Total Alkalinity,,Water Quality (Nutrient)
 Transparency - Secchi,Metres,1,var00140,Secchi Depth,,Light
 Air Temperature,Degrees C,1,var00153,Air Temperature,,Meteorology
-Wave Height,Metres,1,var00180,Water Surface Height,,Hydrodynamics
+Wave Height,Metres,1,var00275,Mean Wave Height,,Hydrodynamics
 Nitrite as N,mg/l,1,var00264,Nitrite,,Water Quality (Nutrient)
 Wind Direction Estimate,Degrees,1,var00287,Wind Direction,,Meteorology
 Phaeophytin,ug/l,1,var00328,Phaeophytin-a,,Water Quality (Nutrient)
