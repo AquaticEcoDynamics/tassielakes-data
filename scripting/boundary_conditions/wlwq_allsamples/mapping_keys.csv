@@ -173,19 +173,19 @@ Organic Carbon Non-Purgeable (NPOC Dis),mg/l,1,var00743,Dissolved Organic Carbon
 Organic Carbon Non-Purgeable (NPOC Tot),mg/l,1,var00744,Total Organic Carbon Non-Purgeable,No mapping key,Water Quality (Nutrient)
 Oxidised Nitrite + Nitrate - Total as N,mg/L,1,var00745,Total Oxidised Nitrite and Nitrate,No mapping key,Water Quality (Nutrient)
 PAR omni-directional,¬µmol photons/m¬≤/sec,1,var00746,PAR omni-directional,No mapping key,Others
-Phosphorous - Reactive - Filtered,mg/l,1,var00747,Filtered Reactive Phosphorus,No mapping key,Water Quality (Nutrient)
-Phosphorus - Reactive Total,mg/l,1,var00748,Total Reactive Phosphorus,No mapping key,Water Quality (Nutrient)
-Redox US Stnd Oxid,mV,1,var00749,Redox US Stnd Oxid,No mapping key,Others
-Sample - Volume Filtered,Millilitres,1,var00750,Filtered Sample Volume,No mapping key,Others
-Sulphate - Total as SO4,mg/l,1,var00751,Total Sulphate,No mapping key,Water Quality (Nutrient)
-Turbidity Filtered,FTU,1,var00752,Filtered Turbidity,No mapping key,Sediment
-Unidentified Chrysophyte,cells/mL,1,var00753,Unidentified Chrysophyte,No mapping key,Ecology (Planktonic)
-Unidentified chlorophyte,cells/mL,1,var00754,Unidentified chlorophyte,No mapping key,Ecology (Planktonic)
-Unidentified filamentous cyanobacteria,cells/mL,1,var00755,Unidentified filamentous cyanobacteria,No mapping key,Ecology (Planktonic)
-Unidentified phytoflagellate,cells/mL,1,var00756,Unidentified phytoflagellate,No mapping key,Ecology (Planktonic)
-Unidentified pico cyanobacteria,cells/mL,1,var00757,Unidentified pico cyanobacteria,No mapping key,Ecology (Planktonic)
-Unidentified round green cells,cells/mL,1,var00758,Unidentified round green cells,No mapping key,Ecology (Planktonic)
-Unidentified uniflagellate,cells/mL,1,var00759,Unidentified uniflagellate,No mapping key,Ecology (Planktonic)
-Water Surface Conditions,,1,var00760,Water Surface Condition,No mapping key,Hydrodynamics
+Phosphorous - Reactive - Filtered,mg/l,1,var00027,Filterable Reactive Phosphorus,,Water Quality (Nutrient)
+Phosphorus - Reactive Total,mg/l,1,var00747,Total Reactive Phosphorus,No mapping key,Water Quality (Nutrient)
+Redox US Stnd Oxid,mV,1,var00748,Redox US Stnd Oxid,No mapping key,Others
+Sample - Volume Filtered,Millilitres,1,var00749,Filtered Sample Volume,No mapping key,Others
+Sulphate - Total as SO4,mg/l,1,var00750,Total Sulphate,No mapping key,Water Quality (Nutrient)
+Turbidity Filtered,FTU,1,var00751,Filtered Turbidity,No mapping key,Sediment
+Unidentified Chrysophyte,cells/mL,1,var00752,Unidentified Chrysophyte,No mapping key,Ecology (Planktonic)
+Unidentified chlorophyte,cells/mL,1,var00753,Unidentified chlorophyte,No mapping key,Ecology (Planktonic)
+Unidentified filamentous cyanobacteria,cells/mL,1,var00754,Unidentified filamentous cyanobacteria,No mapping key,Ecology (Planktonic)
+Unidentified phytoflagellate,cells/mL,1,var00755,Unidentified phytoflagellate,No mapping key,Ecology (Planktonic)
+Unidentified pico cyanobacteria,cells/mL,1,var00756,Unidentified pico cyanobacteria,No mapping key,Ecology (Planktonic)
+Unidentified round green cells,cells/mL,1,var00757,Unidentified round green cells,No mapping key,Ecology (Planktonic)
+Unidentified uniflagellate,cells/mL,1,var00758,Unidentified uniflagellate,No mapping key,Ecology (Planktonic)
+Water Surface Conditions,,1,var00759,Water Surface Condition,No mapping key,Hydrodynamics
 Water Temperature,Degrees C,1,var00007,Temperature,,Water Quality (PhysChm)
 Dissolved Oxygen (DO %),% Saturation,1,var00085,O2 Saturation,,Water Quality (PhysChm)

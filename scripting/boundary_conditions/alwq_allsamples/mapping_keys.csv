@@ -69,19 +69,19 @@ Ochrophyta (Spiniferomonas sp.),cells/mL,1,var00739,Ochrophyta (Spiniferomonas s
 Ochrophyta (Uroglena sp.),cells/mL,1,var00741,Ochrophyta (Uroglena sp.),No mapping key,Ecology (Planktonic)
 Oxidised Nitrite + Nitrate - Total as N,mg/L,1,var00745,Total Oxidised Nitrite and Nitrate,No mapping key,Water Quality (Nutrient)
 PAR omni-directional,¬µmol photons/m¬≤/sec,1,var00746,PAR omni-directional,No mapping key,Others
-Phosphorous - Reactive - Filtered,mg/l,1,var00747,Filtered Reactive Phosphorus,No mapping key,Water Quality (Nutrient)
-Redox US Stnd Oxid,mV,1,var00749,Redox US Stnd Oxid,No mapping key,Others
-Sample - Volume Filtered,Millilitres,1,var00750,Filtered Sample Volume,No mapping key,Others
-Turbidity Filtered,FTU,1,var00752,Filtered Turbidity,No mapping key,Sediment
-Unidentified Chrysophyte,cells/mL,1,var00753,Unidentified Chrysophyte,No mapping key,Ecology (Planktonic)
-Unidentified chlorophyte,cells/mL,1,var00754,Unidentified chlorophyte,No mapping key,Ecology (Planktonic)
-Unidentified filamentous cyanobacteria,cells/mL,1,var00755,Unidentified filamentous cyanobacteria,No mapping key,Ecology (Planktonic)
-Unidentified pico cyanobacteria,cells/mL,1,var00757,Unidentified pico cyanobacteria,No mapping key,Ecology (Planktonic)
-Unidentified uniflagellate,cells/mL,1,var00759,Unidentified uniflagellate,No mapping key,Ecology (Planktonic)
-Water Surface Conditions,,1,var00760,Water Surface Condition,No mapping key,Hydrodynamics
-Bacillariophyta (Amphora sp.),cells/mL,1,var00761,Bacillariophyta (Amphora sp.),No mapping key,Ecology (Planktonic)
-Bacillariophyta (Tabellaria flocculosa),cells/mL,1,var00762,Bacillariophyta (Tabellaria flocculosa),No mapping key,Ecology (Planktonic)
-Cyanobacteria (Aphanizomenon sp.),cells/mL,1,var00763,Cyanobacteria (Aphanizomenon sp.),No mapping key,Ecology (Planktonic)
-Ochrophyta (Ophiocytiaceae sp.),cells/mL,1,var00764,Ochrophyta (Ophiocytiaceae sp.),No mapping key,Ecology (Planktonic)
-PAR uni-directional in water,¬µmol photons/m¬≤/sec,1,var00765,PAR uni-directional in water,No mapping key,Others
-Sample bottles,units,1,var00766,Sample bottles,No mapping key,Others
+Phosphorous - Reactive - Filtered,mg/l,1,var00027,Filterable Reactive Phosphorus,,Water Quality (Nutrient)
+Redox US Stnd Oxid,mV,1,var00748,Redox US Stnd Oxid,No mapping key,Others
+Sample - Volume Filtered,Millilitres,1,var00749,Filtered Sample Volume,No mapping key,Others
+Turbidity Filtered,FTU,1,var00751,Filtered Turbidity,No mapping key,Sediment
+Unidentified Chrysophyte,cells/mL,1,var00752,Unidentified Chrysophyte,No mapping key,Ecology (Planktonic)
+Unidentified chlorophyte,cells/mL,1,var00753,Unidentified chlorophyte,No mapping key,Ecology (Planktonic)
+Unidentified filamentous cyanobacteria,cells/mL,1,var00754,Unidentified filamentous cyanobacteria,No mapping key,Ecology (Planktonic)
+Unidentified pico cyanobacteria,cells/mL,1,var00756,Unidentified pico cyanobacteria,No mapping key,Ecology (Planktonic)
+Unidentified uniflagellate,cells/mL,1,var00758,Unidentified uniflagellate,No mapping key,Ecology (Planktonic)
+Water Surface Conditions,,1,var00759,Water Surface Condition,No mapping key,Hydrodynamics
+Bacillariophyta (Amphora sp.),cells/mL,1,var00760,Bacillariophyta (Amphora sp.),No mapping key,Ecology (Planktonic)
+Bacillariophyta (Tabellaria flocculosa),cells/mL,1,var00761,Bacillariophyta (Tabellaria flocculosa),No mapping key,Ecology (Planktonic)
+Cyanobacteria (Aphanizomenon sp.),cells/mL,1,var00762,Cyanobacteria (Aphanizomenon sp.),No mapping key,Ecology (Planktonic)
+Ochrophyta (Ophiocytiaceae sp.),cells/mL,1,var00763,Ochrophyta (Ophiocytiaceae sp.),No mapping key,Ecology (Planktonic)
+PAR uni-directional in water,¬µmol photons/m¬≤/sec,1,var00764,PAR uni-directional in water,No mapping key,Others
+Sample bottles,units,1,var00765,Sample bottles,No mapping key,Others
