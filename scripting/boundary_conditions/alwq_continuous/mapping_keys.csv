@@ -5,4 +5,4 @@ salinity,Parts per Thousand,1,var00006,Salinity,,Water Quality (PhysChm)
 turbidity,NTU/FNU,1,var00013,Turbidity,,Water Quality (Light)
 Water%20Temp,Degrees C,1,var00007,Temperature,,Water Quality (PhysChm)
 chloro_a,ug/L,1,var00014,Chlorophyll-a,,Water Quality (Nutrient)
-phyco,,1,var00767,Phyco,,Others
+phyco,,1,var00766,Phyco,,Others
