@@ -128,7 +128,7 @@ MARVLs.master = master; clear master;
 % -------------------------------------------------------------------------
 
 timeseries.start_plot_ID = 1;
-timeseries.end_plot_ID = 16;
+timeseries.end_plot_ID = 14;
 
 timeseries.plotvalidation = 1; % Add field data to figure (true or false)
 timeseries.validation_raw = 1; % 1: raw data; 0: daily-average
