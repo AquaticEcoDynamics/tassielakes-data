@@ -84,7 +84,7 @@ master.varname = {...
 master.add_human = 1; % option to use user-define names, if 0 use AED names
 
 % Models
-master.ncfile(1).name = '/Development/projects/Woods/woods_model_tfvaed_0.1/outputs/results/woods_2023_2024_testwq_WQ.nc';
+master.ncfile(1).name = '/Volumes/Development/projects/Woods/woods_model_tfvaed_0.1/outputs/results/woods_2023_2024_testwq_WQ.nc';
 %'/Projects2/csiem/Model/TFV/Results_2022_B009/csiem_v1_B009_20220101_20221231_WQ_WQ.nc';
 %'/Projects2/csiem/Model/TFV/Results_2013_B009_HD/csiem_v1_B009_20130101_20131231_HD.nc';
 %'/Projects2/csiem/Model/TFV/Results_2013_B009_HD/csiem_v1_B009_20130101_20131231_HD.nc';
@@ -136,7 +136,8 @@ timeseries.plotmodel = 1;
 
 timeseries.plotdepth = {'surface','bottom'};  %  {'surface','bottom'} Cell-array with either one
 timeseries.depthTHRESH = -3;  %  {'surface','bottom'} Cell-array with either one
-timeseries.edge_color = {[166,86,40]./255;[8,88,158]./255}; % symbol edge color for field data, surface and bottom
+% timeseries.edge_color = {[166,86,40]./255;[8,88,158]./255}; % symbol edge color for field data, surface and bottom
+timeseries.edge_color = {[255, 100, 100]./255; [0, 0, 0]./255};
 timeseries.depth_range = [0.2 100];
 timeseries.validation_minmax = 0;
 timeseries.isModelRange = 1;
@@ -179,18 +180,20 @@ timeseries.htmloutput = '../outputs/MARVL_AED/HTML/';
 timeseries.ErrFilename = '../outputs/MARVL_AED/errormatrix.mat';
 
 timeseries.ncfile(1).symbol = {'-';'-'};
-timeseries.ncfile(1).colour = {[166,86,40]./255;[8,88,158]./255};% Surface and Bottom
+% timeseries.ncfile(1).colour = {[166,86,40]./255;[8,88,158]./255};% Surface and Bottom
+timeseries.ncfile(1).colour = {[255, 255, 255]./255; [0, 0, 0]./255}
 timeseries.ncfile(1).col_pal_color_surf =[[254,232,200]./255;[252,141,89]./255]; % color1: 5-95 perc; color2: 25-75 perc
-timeseries.ncfile(1).col_pal_color_bot  =[[222,235,247]./255;[107,174,214]./255];
+% timeseries.ncfile(1).col_pal_color_bot  =[[222,235,247]./255;[107,174,214]./255];
+timeseries.ncfile(1).col_pal_color_bot = [[211, 211, 211]./255; [128, 128, 128]./255];
 
-timeseries.ncfile(2).symbol = {'-';'-'};
-timeseries.ncfile(2).colour = {[77,175,74]./255;[152,78,163]./255};% Surface and Bottom
-timeseries.ncfile(2).col_pal_color_surf =[[222,235,247]./255;[107,174,214]./255]; % color1: 5-95 perc; color2: 25-75 perc
-timeseries.ncfile(2).col_pal_color_bot  =[[254,232,200]./255;[252,141,89]./255];
+% timeseries.ncfile(2).symbol = {'-';'-'};
+% timeseries.ncfile(2).colour = {[77,175,74]./255;[152,78,163]./255};% Surface and Bottom
+% timeseries.ncfile(2).col_pal_color_surf =[[222,235,247]./255;[107,174,214]./255]; % color1: 5-95 perc; color2: 25-75 perc
+% timeseries.ncfile(2).col_pal_color_bot  =[[254,232,200]./255;[252,141,89]./255];
 
 
 % plotting configuration
-timeseries.datearray = datenum(2023,01:6:19,1);
+timeseries.datearray = datenum(2023,01:6:16,1);
 timeseries.dateformat = 'dd/mmm/yy';
 
 %timeseries.dimc = [0.9 0.9 0.9]; % dimmest (lightest) color

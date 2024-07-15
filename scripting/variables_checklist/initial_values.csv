@@ -1,0 +1,51 @@
+Variable,Initial Value,TFV Variable Name
+WoodsLakeMiddle_AirTemperature,0.0,AIR_TEMPERATURE
+WoodsLakeMiddleLakeBedContinuous_SpecificConductivity,61.29256650000001,COND
+WoodsLakeMiddle_SpecificConductivity,62.75,COND
+WoodsLakeMiddleLakeBedContinuous_Salinity,0.027958,SAL
+WoodsLakeMiddle_Salinity,no available data from 2023,SAL
+WoodsLakeMiddle_Temperature,10.05,TEMPERATURE
+WoodsLakeMiddleLakeBedContinuous_Temperature,14.12783,TEMPERATURE
+WoodsLakeMiddle_MeanWaveHeight,no available data from 2023,WAVE_HEIGHT
+WoodsLakeMiddleLakeBedContinuous_pH,7.5702285,WQ_CAR_PH
+WoodsLakeMiddle_pH,8.33,WQ_CAR_PH
+WoodsLakeMiddle_TotalAlkalinity,no available data from 2023,WQ_DIAG_CAR_TALK
+WoodsLakeMiddle_TotalOxidisedNitriteandNitrate,0.0055,WQ_DIAG_NIT_NOX
+WoodsLakeMiddle_TotalOrganicCarbonNon-Purgeable,no available data from 2023,WQ_DIAG_OGM_TOC
+WoodsLakeMiddleLakeBedContinuous_O2Saturation,88.28349700000001,WQ_DIAG_OXY_SAT
+WoodsLakeMiddle_O2Saturation,99.3,WQ_DIAG_OXY_SAT
+WoodsLakeMiddle_TotalReactivePhosphorus,no available data from 2023,WQ_DIAG_PHS_TPO4
+WoodsLakeMiddle_Phaeophytin-a,no available data from 2023,WQ_DIAG_PHY_PHAE
+WoodsLakeMiddle_Chlorophyll-a,36.95,WQ_DIAG_PHY_TCHLA
+WoodsLakeMiddle_PARomni-directional,no available data from 2023,WQ_DIAG_TOT_PAR
+WoodsLakeLight_PARomni-directional,no available data from 2023,WQ_DIAG_TOT_PAR
+WoodsLakeMiddle_SecchiDepth,0.7949999999999999,WQ_DIAG_TOT_SECCHI
+WoodsLakeLight_SecchiDepth,0.71,WQ_DIAG_TOT_SECCHI
+WoodsLakeMiddle_TotalKjeldahiNitrogen,0.84,WQ_DIAG_TOT_TKN
+WoodsLakeMiddle_TotalNitrogen,0.845,WQ_DIAG_TOT_TN
+WoodsLakeMiddle_TotalPhosphorus,0.026000000000000002,WQ_DIAG_TOT_TP
+WoodsLakeMiddle_TotalSuspendedSolids,8.0,WQ_DIAG_TOT_TSS
+WoodsLakeMiddle_Turbidity,17.925,WQ_DIAG_TOT_TURBIDITY
+WoodsLakeMiddleLakeBedContinuous_Turbidity,20.743009999999998,WQ_DIAG_TOT_TURBIDITY
+WoodsLakeMiddle_BicarbonateAlkalinityasCaCO3,no available data from 2023,WQ_GEO_BALK
+WoodsLakeMiddle_Chloride,no available data from 2023,WQ_GEO_CL
+WoodsLakeMiddle_DissolvedIron,no available data from 2023,WQ_GEO_FEII
+WoodsLakeMiddle_TotalSulphate,no available data from 2023,WQ_GEO_SO4
+WoodsLakeMiddle_TotalAluminium,no available data from 2023,WQ_GEO_TAL
+WoodsLakeMiddle_Copper,no available data from 2023,WQ_GEO_TCU
+WoodsLakeMiddle_TotalIron,no available data from 2023,WQ_GEO_TFE
+WoodsLakeMiddle_TotalMercury,no available data from 2023,WQ_GEO_THG
+WoodsLakeMiddle_TotalManganese,no available data from 2023,WQ_GEO_TMN
+WoodsLakeMiddle_Nickel,no available data from 2023,WQ_GEO_TNI
+WoodsLakeMiddle_Lead,no available data from 2023,WQ_GEO_TPB
+WoodsLakeMiddle_Zinc,no available data from 2023,WQ_GEO_TZN
+WoodsLakeMiddle_Ammonium,0.005,WQ_NIT_AMM
+WoodsLakeMiddle_Nitrate,0.005,WQ_NIT_NIT
+WoodsLakeMiddle_Nitrite,0.002,WQ_NIT_NO2
+WoodsLakeMiddle_DissolvedOrganicCarbonNon-Purgeable,7.15,WQ_OGM_DOC
+WoodsLakeMiddleLakeBedContinuous_DissolvedOxygen,9.0759925,WQ_OXY_OXY
+WoodsLakeMiddle_DissolvedOxygen,10.295,WQ_OXY_OXY
+WoodsLakeMiddle_FilterableReactivePhosphorus,0.005,WQ_PHS_FRP
+WoodsLakeMiddle_Cyanobacteria(TotalBlueGreenAlgae),180000.0,WQ_PHY_BGA
+WoodsLakeMiddle_Microcystin-LRExtracellular,no available data from 2023,WQ_PTX_MICROCYSTIN_EX
+WoodsLakeMiddle_Microcystin-LRIntracellular,no available data from 2023,WQ_PTX_MICROCYSTIN_IN
