@@ -26,14 +26,14 @@ Unavailable data outside this time frame for the water qualities were then extra
 **Unit conversion for water qualities** (except total suspended solids):
 | Variable | Previous unit | Conversion factor | Current unit |
 | ------------- | ------------- | ------------- | ------------- |
-| Dissolved oxygen | mg O<sub>2</sub>/L | 1/32 | mmol O<sub>2</sub>/m3 |
-| Ammonium | mg N/L | 1/14 | mmol N/m3 |
-| Nitrate | mg N/L | 1/14 | mmol N/m3 |
-| Filtered reactive phosphorus | mg P/L | 1/31 | mmol P/m3 |
-| Organic carbon | mg C/L | 1/12 | mmol C/m3 |
-| Organic nitrogen | mg N/L | 1/14 | mmol N/m3 |
-| Organic phosphorus | mg P/L | 1/31 | mmol P/m3 |
-| Chlorophyll-a | ug C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/L | 1/(1000*893.51) | mmol C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/m3 |
+| Dissolved oxygen | mg O<sub>2</sub>/L | 1000/32 | mmol O<sub>2</sub>/m3 |
+| Ammonium | mg N/L | 1000/14 | mmol N/m3 |
+| Nitrate | mg N/L | 1000/14 | mmol N/m3 |
+| Filtered reactive phosphorus | mg P/L | 1000/31 | mmol P/m3 |
+| Organic carbon | mg C/L | 1000/12 | mmol C/m3 |
+| Organic nitrogen | mg N/L | 1000/14 | mmol N/m3 |
+| Organic phosphorus | mg P/L | 1000/31 | mmol P/m3 |
+| Chlorophyll-a | ug C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/L | 1000/(1000*893.51) | mmol C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/m3 |
 
 **Calculation of organic nitrogen and organic phosphorus:**
 
