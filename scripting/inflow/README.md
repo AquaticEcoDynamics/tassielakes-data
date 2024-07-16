@@ -33,8 +33,7 @@ Unavailable data outside this time frame for the water qualities were then extra
 | Organic carbon | mg C/L | 1000/12 | mmol C/m3 |
 | Organic nitrogen | mg N/L | 1000/14 | mmol N/m3 |
 | Organic phosphorus | mg P/L | 1000/31 | mmol P/m3 |
-| Chlorophyll-a | ug C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/L | 1000/(1000*893.51) | mmol 
-C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/m3 |
+| Chlorophyll-a | ug C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/L | 1000/(1000*893.51) | mmol C<sub>55</sub>H<sub>72</sub>O<sub>5</sub>N<sub>4</sub>Mg/m3 |
 | Dissolved Organic Carbon | mg C/L | 1000/12 | mmol C/m3 |
 
 **Calculation of organic nitrogen and organic phosphorus:**
