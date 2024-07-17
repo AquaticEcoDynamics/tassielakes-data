@@ -193,7 +193,7 @@ timeseries.ncfile(1).col_pal_color_bot = [[211, 211, 211]./255; [128, 128, 128].
 
 
 % plotting configuration
-timeseries.datearray = datenum(2023,01:6:16,1);
+timeseries.datearray = datenum(2023,01:6:23,1);
 timeseries.dateformat = 'dd/mmm/yy';
 
 %timeseries.dimc = [0.9 0.9 0.9]; % dimmest (lightest) color
