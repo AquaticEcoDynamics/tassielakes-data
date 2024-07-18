@@ -1,16 +1,7 @@
 # Inflow Data Processing
 
 ### Data Extraction
-A comparison plot (flow_comparison.png) has been generated from 
-
-- data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/Inflow.csv; and
-- data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/SpillwayDischarge.csv
-
-to compare the data validity of both data files.
-
-![comparison plot](flow_comparison.png)
-
-Thus, the Inflow was used as the flow rate for the output file (inflow_woods_dam_20170908-20240514.csv).
+The Inflow from the SWIFT model was used as the flow in cumecs for the output file (swift_inflow_woods_dam_20160107-20240514.csv).
 
 Temperature, salinity, and chlorophyll-a data were extracted from continuous data (data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/).
 
@@ -59,15 +50,8 @@ Organic carbon is the observed mean of dissolved organic carbon, dissolved organ
 ### File Description
 | Format  | Name  | Description  |
 | ------------- | ------------- | ------------- |
-| .csv  | Interpolated_418.1_ArthursInflow.csv | Interpolated inflow |
-| .csv  | Interpolated_418.1_ArthursSpillway.csv | Interpolated spillway flow |
-| .csv  | swift_inflow_woods_dam_20160107-20240514.csv | Interpolated inflow of Woods Lake |
-| .ipynb  | comparison_plot.ipynb | Python script written in Jupyter notebook for plotting comparison graph|
-| .ipynb  | inflow_processing.ipynb | Python script written in Jupyter notebook for processing inflow data|
+| .csv  | swift_inflow_woods_dam_20160107-20240514.csv | Interpolated inflow of Woods Lake (SWIFT model) |
 | .ipynb  | all_inflow_processing.ipynb | Python script written in Jupyter notebook for processing Woods lake inflow|
-| .ipynb  | spillway_processing.ipynb | Python script written in Jupyter notebook for processing spillway data|
-| .png  | flow_comparison.png | Comparison plot between the flow of inflow and spillway |
-| .png  | Woods POC DOC.png | Comparison plot of dissolved organic carbon, dissolved organic carbon non-purgeable, and total organic carbon non-purgeable of Woods Lake |
 
 ---
 
