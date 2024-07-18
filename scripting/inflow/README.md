@@ -61,7 +61,7 @@ Organic carbon is the observed mean of dissolved organic carbon, dissolved organ
 | ------------- | ------------- | ------------- |
 | .csv  | Interpolated_418.1_ArthursInflow.csv | Interpolated inflow |
 | .csv  | Interpolated_418.1_ArthursSpillway.csv | Interpolated spillway flow |
-| .csv  | inflow_woods_dam_20170908-20240614.csv | Interpolated inflow of Woods Lake |
+| .csv  | swift_inflow_woods_dam_20160107-20240514.csv | Interpolated inflow of Woods Lake |
 | .ipynb  | comparison_plot.ipynb | Python script written in Jupyter notebook for plotting comparison graph|
 | .ipynb  | inflow_processing.ipynb | Python script written in Jupyter notebook for processing inflow data|
 | .ipynb  | all_inflow_processing.ipynb | Python script written in Jupyter notebook for processing Woods lake inflow|
