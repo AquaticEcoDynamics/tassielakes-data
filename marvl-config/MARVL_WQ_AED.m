@@ -84,7 +84,7 @@ master.varname = {...
 master.add_human = 1; % option to use user-define names, if 0 use AED names
 
 % Models
-master.ncfile(1).name = '/Development/projects/Woods/woods_model_tfvaed_0.1/outputs/results/woods_2023_2024_testwq_WQ.nc';
+master.ncfile(1).name = '/Development/projects/Woods/woods_model_tfvaed_0.1/outputs/results/woods_2023_2024_wqv3_WQ.nc';
 %'/Projects2/csiem/Model/TFV/Results_2022_B009/csiem_v1_B009_20220101_20221231_WQ_WQ.nc';
 %'/Projects2/csiem/Model/TFV/Results_2013_B009_HD/csiem_v1_B009_20130101_20131231_HD.nc';
 %'/Projects2/csiem/Model/TFV/Results_2013_B009_HD/csiem_v1_B009_20130101_20131231_HD.nc';
