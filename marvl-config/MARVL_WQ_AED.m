@@ -136,8 +136,7 @@ timeseries.plotmodel = 1;
 
 timeseries.plotdepth = {'surface','bottom'};  %  {'surface','bottom'} Cell-array with either one
 timeseries.depthTHRESH = -3;  %  {'surface','bottom'} Cell-array with either one
-% timeseries.edge_color = {[166,86,40]./255;[8,88,158]./255}; % symbol edge color for field data, surface and bottom
-timeseries.edge_color = {[255, 100, 100]./255; [0, 0, 0]./255};
+timeseries.edge_color = {[166,86,40]./255;[8,88,158]./255}; % symbol edge color for field data, surface and bottom
 timeseries.depth_range = [0.2 100];
 timeseries.validation_minmax = 0;
 timeseries.isModelRange = 1;
@@ -181,10 +180,10 @@ timeseries.ErrFilename = '../outputs/MARVL_AED/errormatrix.mat';
 
 timeseries.ncfile(1).symbol = {'-';'-'};
 % timeseries.ncfile(1).colour = {[166,86,40]./255;[8,88,158]./255};% Surface and Bottom
-timeseries.ncfile(1).colour = {[255, 255, 255]./255; [0, 0, 0]./255}
-timeseries.ncfile(1).col_pal_color_surf =[[254,232,200]./255;[252,141,89]./255]; % color1: 5-95 perc; color2: 25-75 perc
+timeseries.ncfile(1).colour = {[153,0,13]./255; [8,69,148]./255}
+timeseries.ncfile(1).col_pal_color_surf =[[254,224,210]./255;[252,187,161]./255]; % color1: 5-95 perc; color2: 25-75 perc
 % timeseries.ncfile(1).col_pal_color_bot  =[[222,235,247]./255;[107,174,214]./255];
-timeseries.ncfile(1).col_pal_color_bot = [[211, 211, 211]./255; [128, 128, 128]./255];
+timeseries.ncfile(1).col_pal_color_bot = [[222,235,247]./255; [158,202,225]./255];
 
 % timeseries.ncfile(2).symbol = {'-';'-'};
 % timeseries.ncfile(2).colour = {[77,175,74]./255;[152,78,163]./255};% Surface and Bottom
@@ -219,6 +218,7 @@ timeseries.filetype = 'png';
  end
 %timeseries.cAxis(4).value = [2 10];
 %timeseries.cAxis(5).value = [40 120];
+timeseries.cAxis(148).value = [0 100];
 
 MARVLs.timeseries = timeseries; clear timeseries;
 

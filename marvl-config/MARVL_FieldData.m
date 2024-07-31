@@ -218,8 +218,9 @@ timeseries.filetype = 'png';
  for vvvv=1:size(MARVLs.master.varname,1)
      timeseries.cAxis(vvvv).value = [ ];
  end
-timeseries.cAxis(4).value = [2 10];
-timeseries.cAxis(5).value = [40 120];
+% timeseries.cAxis(4).value = [2 10];
+% timeseries.cAxis(5).value = [40 120];
+timeseries.cAxis(148).value = [0 100];
 
 MARVLs.timeseries = timeseries; clear timeseries;
 
