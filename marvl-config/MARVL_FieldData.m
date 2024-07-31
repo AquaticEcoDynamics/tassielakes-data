@@ -193,7 +193,8 @@ timeseries.ncfile(2).col_pal_color_bot  =[[254,232,200]./255;[252,141,89]./255];
 
 
 % plotting configuration
-timeseries.datearray = datenum(2015:01:2024,07,1);
+% timeseries.datearray = datenum(2015:01:2024,07,1);
+timeseries.datearray = datenum(2023:01:2024,07,1);
 timeseries.dateformat = 'dd/mmm/yy';
 
 %timeseries.dimc = [0.9 0.9 0.9]; % dimmest (lightest) color
@@ -207,8 +208,8 @@ timeseries.dimensions = [20 10]; % Width & Height in cm
 timeseries.dailyave = 0; % 1 for daily average, 0 for off. Daily average turns off smoothing.
 %timeseries.smoothfactor = 3; % Must be odd number (set to 3 if none)
 
-%timeseries.fieldsymbol = {'.','.'}; % Cell with same number of levels
-%timeseries.fieldcolour = {'m',[0.6 0.6 0.6]}; % Cell with same number of levels
+% timeseries.fieldsymbol = {'.','.'}; % Cell with same number of levels
+% timeseries.fieldcolour = {'m',[0.6 0.6 0.6]}; % Cell with same number of levels
 
 timeseries.legendlocation = 'northeastoutside';
 timeseries.filetype = 'png';
@@ -217,8 +218,9 @@ timeseries.filetype = 'png';
  for vvvv=1:size(MARVLs.master.varname,1)
      timeseries.cAxis(vvvv).value = [ ];
  end
-timeseries.cAxis(4).value = [2 10];
-timeseries.cAxis(5).value = [40 120];
+% timeseries.cAxis(4).value = [2 10];
+% timeseries.cAxis(5).value = [40 120];
+timeseries.cAxis(148).value = [0 100];
 
 MARVLs.timeseries = timeseries; clear timeseries;
 
