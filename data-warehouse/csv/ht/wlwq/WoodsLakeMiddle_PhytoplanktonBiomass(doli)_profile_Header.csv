@@ -19,10 +19,10 @@ Vertical Reference,Water Surface
 Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
-Variable ID,var00039
+Variable ID,var00778
 Data Category,Ecology (Planktonic)
 Sampling Rate (min),
 Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
-Variable,Picoplankton
+Variable,Dolichospermum
 QC,int
