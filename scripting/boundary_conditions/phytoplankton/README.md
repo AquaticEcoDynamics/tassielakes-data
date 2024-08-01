@@ -15,3 +15,5 @@
 
 ---
 
+> [!NOTE]
+> Conversion factors derived from Equations listed in `data-governance/MARVL Conversion (Phytoplankton).docx`.
