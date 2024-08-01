@@ -12,3 +12,4 @@ Dolichospermum,cells/mL,3250,var00041,Phytoplankton Biomass (dino),,Ecology (Pla
 Chlorophyte,cells/mL,275,var00038,Phytoplankton Biomass (greens),,Ecology (Planktonic)
 Picoplankton,cells/mL,275,var00039,Phytoplankton Biomass (crypt),,Ecology (Planktonic)
 Diatom (Bacillariophyta),cells/mL,200000,var00040,Phytoplankton Biomass (diatom),,Ecology (Planktonic)
+Cyanobacteria,mmol C/m^3,1,var00777,Phytoplankton Biomass (cyano),,Ecology (Planktonic)
