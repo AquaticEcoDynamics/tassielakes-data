@@ -4,8 +4,8 @@ Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
 Tag,HT-ALWQ
-Data File Name,SpillwayDischarge.csv
-Location,data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/
+Data File Name,ArthursLakeSpillway_Discharge(SpillwayDischarge)_profile_Data.csv
+Location,data-warehouse/csv/ht/alwq
 Station Status,Active
 Lat,-41.985227
 Long,146.992343

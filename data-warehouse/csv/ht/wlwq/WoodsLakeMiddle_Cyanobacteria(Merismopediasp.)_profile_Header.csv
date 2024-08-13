@@ -4,7 +4,7 @@ Agency Code,HT
 Program,Woods Lake WQ
 Project,WLWQ
 Tag,HT-WLWQ
-Data File Name,WoodsLakeMiddle_SpecificConductivity_profile_Data.csv
+Data File Name,WoodsLakeMiddle_Cyanobacteria(Merismopediasp.)_profile_Data.csv
 Location,data-warehouse/csv/ht/wlwq
 Station Status,Active
 Lat,-42.080562
@@ -19,10 +19,10 @@ Vertical Reference,Water Surface
 Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
-Variable ID,var00134
-Data Category,Water Quality (PhysChm)
+Variable ID,var00703
+Data Category,Ecology (Planktonic)
 Sampling Rate (min),
 Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
-Variable,Conductivity @ TRef 25
+Variable,Cyanobacteria (Merismopedia sp.)
 QC,int

@@ -4,8 +4,8 @@ Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
 Tag,HT-ALWQ-CONT
-Data File Name,conductivity.csv
-Location,data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Continuous/
+Data File Name,ArthursLakeSpillwayContinuous_SpecificConductivity_profile_Data.csv
+Location,data-warehouse/csv/ht/alwq
 Station Status,Active
 Lat,-41.985227
 Long,146.992343

@@ -4,8 +4,8 @@ Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
 Tag,HT-ALWQ
-Data File Name,WQSamples.csv
-Location,data-lake/HT/Hydrology/Arthurs Lake Spillway (418.1)/WQ at Morass Bay (418.24)/Samples/
+Data File Name,ArthursLakeSpillway_UnidentifiedChrysophyte_profile_Data.csv
+Location,data-warehouse/csv/ht/alwq
 Station Status,Active
 Lat,-41.985227
 Long,146.992343
