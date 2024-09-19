@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Hydro Tasmania
+Agency Code,HT
+Program,Arthurs Lake WQ
+Project,ALWQ
+Tag,HT-ALWQ
+Data File Name,ArthursLake_CyanoLake_BloomIndex_max_profile_Data.csv
+Location,data-warehouse/csv/ht/alwq
+Station Status,Active
+Lat,-41.985227
+Long,146.992343
+Time Zone,GMT +6
+Vertical Datum,mAHD
+National Station ID,418
+Site Description,418
+Deployment,Floating
+Deployment Position,m from Surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00936
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,BloomIndex (max)
+QC,NaN
