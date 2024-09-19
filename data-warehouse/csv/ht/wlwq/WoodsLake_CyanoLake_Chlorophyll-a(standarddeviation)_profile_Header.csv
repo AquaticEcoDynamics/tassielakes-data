@@ -4,7 +4,7 @@ Agency Code,HT
 Program,Woods Lake WQ
 Project,WLWQ
 Tag,HT-WLWQ
-Data File Name,WoodsLake_CyanoLake_Chlorophyll-a_std_profile_Data.csv
+Data File Name,WoodsLake_CyanoLake_Chlorophyll-a(standarddeviation)_profile_Data.csv
 Location,data-warehouse/csv/ht/wlwq
 Station Status,Active
 Lat,-42.080562
@@ -19,10 +19,10 @@ Vertical Reference,Water Surface
 Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
-Variable ID,var00014
+Variable ID,var00941
 Data Category,Water Quality (Nutrient)
 Sampling Rate (min),
 Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
-Variable,Chlorophyll-a (std)
+Variable,chla_std
 QC,NaN

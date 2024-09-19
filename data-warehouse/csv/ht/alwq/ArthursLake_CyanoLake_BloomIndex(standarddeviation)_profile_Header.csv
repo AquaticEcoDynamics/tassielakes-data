@@ -4,7 +4,7 @@ Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
 Tag,HT-ALWQ
-Data File Name,ArthursLake_CyanoLake_BloomIndex_med_profile_Data.csv
+Data File Name,ArthursLake_CyanoLake_BloomIndex(standarddeviation)_profile_Data.csv
 Location,data-warehouse/csv/ht/alwq
 Station Status,Active
 Lat,-41.985227
@@ -19,10 +19,10 @@ Vertical Reference,Water Surface
 Site Mean Depth,
 Bad or Unavailable Data Value,NaN
 Contact Email,
-Variable ID,var00936
+Variable ID,var00945
 Data Category,Water Quality (Nutrient)
 Sampling Rate (min),
 Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
-Variable,BloomIndex (med)
+Variable,blm_idx_std
 QC,NaN
