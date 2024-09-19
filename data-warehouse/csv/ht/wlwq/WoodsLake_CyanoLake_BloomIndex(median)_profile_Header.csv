@@ -3,7 +3,7 @@ Agency Name,Hydro Tasmania
 Agency Code,HT
 Program,Woods Lake WQ
 Project,WLWQ
-Tag,HT-WLWQ
+Tag,HT-WLWQ-CYANOLAKE
 Data File Name,WoodsLake_CyanoLake_BloomIndex(median)_profile_Data.csv
 Location,data-warehouse/csv/ht/wlwq
 Station Status,Active

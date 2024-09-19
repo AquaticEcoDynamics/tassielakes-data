@@ -3,7 +3,7 @@ Agency Name,Hydro Tasmania
 Agency Code,HT
 Program,Arthurs Lake WQ
 Project,ALWQ
-Tag,HT-ALWQ
+Tag,HT-ALWQ-CYANOLAKE
 Data File Name,ArthursLake_CyanoLake_Chlorophyll-a(minimum)_profile_Data.csv
 Location,data-warehouse/csv/ht/alwq
 Station Status,Active
