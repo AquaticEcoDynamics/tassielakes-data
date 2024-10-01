@@ -1,4 +1,4 @@
-Rating Table 130.00 Water Level (Metres) to 130.02 Surface Area (Square kilometres)
+12.6Rating Table 130.00 Water Level (Metres) to 130.02 Surface Area (Square kilometres)
 Steps: 
 	1) Rating(462.1 WOODS LAKE [AT DAM]; 130.02 Surface Area (Square kilometres); R1; Grp 0)
 	Water Level (m)	     +0.00	     +0.01	     +0.02	     +0.03	     +0.04	     +0.05	     +0.06	     +0.07	     +0.08	     +0.09
