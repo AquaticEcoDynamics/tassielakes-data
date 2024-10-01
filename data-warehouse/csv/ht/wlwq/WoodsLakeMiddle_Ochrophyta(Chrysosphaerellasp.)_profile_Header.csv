@@ -4,8 +4,8 @@ Agency Code,HT
 Program,Woods Lake WQ
 Project,WLWQ
 Tag,HT-WLWQ
-Data File Name,462.5_WoodsLakeMiddle_AllData.csv
-Location,data-lake/HT/WaterQuality/
+Data File Name,WoodsLakeMiddle_Ochrophyta(Chrysosphaerellasp.)_profile_Data.csv
+Location,data-warehouse/csv/ht/wlwq
 Station Status,Active
 Lat,-42.080562
 Long,147.004210

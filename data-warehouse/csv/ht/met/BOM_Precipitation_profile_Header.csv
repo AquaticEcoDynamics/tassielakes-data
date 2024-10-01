@@ -4,8 +4,8 @@ Agency Code,HT
 Program,BOM
 Project,MET
 Tag,HT-MET
-Data File Name,IDCJAC0009.csv
-Location,data-lake/BOM/HT/Hourly aggregate/
+Data File Name,BOM_Precipitation_profile_Data.csv
+Location,data-warehouse/csv/ht/met
 Station Status,Active
 Lat,-42.080562
 Long,147.004210
@@ -24,5 +24,5 @@ Data Category,Meteorology
 Sampling Rate (min),
 Date,yyyy-mm-dd HH:MM:SS
 Depth,Decimal
-Variable,IDCJAC0009
+Variable,Rainfall
 QC,NaN

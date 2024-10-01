@@ -4,8 +4,8 @@ Agency Code,HT
 Program,BOM
 Project,MET
 Tag,HT-MET
-Data File Name,IDCJAC0009.csv
-Location,data-lake/BOM/IDC/
+Data File Name,BOMIDC_Precipitation_profile_Data.csv
+Location,data-warehouse/csv/ht/met
 Station Status,Active
 Lat,-41.90
 Long,146.67

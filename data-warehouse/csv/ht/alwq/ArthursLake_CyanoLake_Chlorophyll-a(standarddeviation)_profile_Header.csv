@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Hydro Tasmania
+Agency Code,HT
+Program,Arthurs Lake WQ
+Project,ALWQ
+Tag,HT-ALWQ-CYANOLAKE
+Data File Name,ArthursLake_CyanoLake_Chlorophyll-a(standarddeviation)_profile_Data.csv
+Location,data-warehouse/csv/ht/alwq
+Station Status,Active
+Lat,-41.985227
+Long,146.992343
+Time Zone,GMT +6
+Vertical Datum,mAHD
+National Station ID,418
+Site Description,418
+Deployment,Floating
+Deployment Position,m from Surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var00941
+Data Category,Water Quality (Nutrient)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,chla_std
+QC,NaN

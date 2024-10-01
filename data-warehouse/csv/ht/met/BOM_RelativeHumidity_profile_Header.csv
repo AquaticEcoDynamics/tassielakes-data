@@ -4,8 +4,8 @@ Agency Code,HT
 Program,BOM
 Project,MET
 Tag,HT-MET
-Data File Name,Humidity.csv
-Location,data-lake/BOM/HT/Hourly aggregate/
+Data File Name,BOM_RelativeHumidity_profile_Data.csv
+Location,data-warehouse/csv/ht/met
 Station Status,Active
 Lat,-42.080562
 Long,147.004210

@@ -4,8 +4,8 @@ Agency Code,HT
 Program,Woods Lake
 Project,MET
 Tag,HT-MET
-Data File Name,Rainfall.csv
-Location,data-lake/HT/Meteorology/
+Data File Name,WoodsLakeAtDam_Precipitation_profile_Data.csv
+Location,data-warehouse/csv/ht/met
 Station Status,Active
 Lat,-42.080562
 Long,147.004210
