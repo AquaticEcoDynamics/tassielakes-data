@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Hydro Tasmania
+Agency Code,HT
+Program,Woods Lake WQ
+Project,WLWQ
+Tag,HT-WLWQ
+Data File Name,WoodsLakeMiddle_Anathecespp0001_profile_Data.csv
+Location,data-warehouse/csv/ht/wlwq
+Station Status,Active
+Lat,-42.080562
+Long,147.004210
+Time Zone,GMT +6
+Vertical Datum,mAHD
+National Station ID,462
+Site Description,462
+Deployment,Profile
+Deployment Position,m from Surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02464
+Data Category,Ecology (Planktonic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Cyanobacteria (Anathece sp.)
+QC,int
