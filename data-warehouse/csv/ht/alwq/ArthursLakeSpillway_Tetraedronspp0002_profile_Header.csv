@@ -1,0 +1,28 @@
+Header,Value
+Agency Name,Hydro Tasmania
+Agency Code,HT
+Program,Arthurs Lake WQ
+Project,ALWQ
+Tag,HT-ALWQ
+Data File Name,ArthursLakeSpillway_Tetraedronspp0002_profile_Data.csv
+Location,data-warehouse/csv/ht/alwq
+Station Status,Active
+Lat,-41.985227
+Long,146.992343
+Time Zone,GMT +6
+Vertical Datum,mAHD
+National Station ID,418
+Site Description,418
+Deployment,Profile
+Deployment Position,m from Surface
+Vertical Reference,Water Surface
+Site Mean Depth,
+Bad or Unavailable Data Value,NaN
+Contact Email,
+Variable ID,var02447
+Data Category,Ecology (Planktonic)
+Sampling Rate (min),
+Date,yyyy-mm-dd HH:MM:SS
+Depth,Decimal
+Variable,Chlorophyta (Tetraedron sp.)
+QC,int
